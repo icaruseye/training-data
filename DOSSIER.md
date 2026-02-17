@@ -25,12 +25,12 @@ This document serves as a reference template for endurance athletes using the de
 
 | Field | Value |
 |-------|-------|
-| Name | [Your name or alias] |
-| Age | [Age] |
-| Height | [cm] |
-| Current Weight | [kg] |
-| Target Weight | [kg] |
-| Location | [City, Country] |
+| Name | tao |
+| Age | 31 |
+| Height | 174 |
+| Current Weight | 67 |
+| Target Weight | 64 |
+| Location | chendu,China |
 
 **Weigh-in Protocol:** [e.g., Once weekly, Friday morning, after bathroom, before food/drink]
 
@@ -52,9 +52,9 @@ This document serves as a reference template for endurance athletes using the de
 
 | Goal | Target Date |
 |------|-------------|
-| [Primary goal] | [Year] |
-| [Secondary goal] | [Year] |
-| [Tertiary goal] | [Year] |
+| [Primary goal] | 4w/kg |
+| [Secondary goal] | cp20 |
+| [Tertiary goal] | cp10 |
 
 **Current Phase:** [e.g., Aerobic build + threshold development]  
 **Training Style:** [e.g., High-volume polarized (~15h/week)]
