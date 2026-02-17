@@ -12,16 +12,18 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-17T16:29:17.698647",
+    "last_updated": "2026-02-17T17:36:04.172105",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
   },
   "alerts": [],
   "history": {
-    "available": false,
-    "history_confidence": "low",
-    "note": "No history.json available. Longitudinal analysis limited to current 28-day window."
+    "available": true,
+    "last_generated": "2026-02-17",
+    "age_days": 0,
+    "total_months": 20,
+    "history_confidence": "high"
   },
   "summary": {
     "period_description": "Last 7 days of training (including today)",
@@ -206,7 +208,7 @@
     "p_max": 631,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-02-17T16:29:17.698513",
+    "calculation_timestamp": "2026-02-17T17:36:04.171407",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -547,8 +549,8 @@
       "date": "2026-02-18T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "- Warm up\n- 10m 50% FTP\n\n- Main Set\n- 100m 65% FTP 90-95rpm\n\n- Cool down\n- 10m 50% FTP",
-      "planned_tss": 78,
+      "description": "- Warm up\n- 10m 50-70% FTP\n\n- Main Set\n- 80m 67% 90-95rpm\n\n- Cool down\n- 10m 55% FTP",
+      "planned_tss": 71,
       "duration_hours": 0.0
     },
     {
