@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-20T08:03:04.473467",
+    "last_updated": "2026-02-20T08:59:26.999176",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -66,12 +66,12 @@
     "thresholds": {
       "ftp_outdoor": 195,
       "ftp_indoor": 195,
-      "eftp": 194.2,
+      "eftp": 194.4,
       "lthr": 175,
       "max_hr": 193,
-      "w_prime": 19182,
+      "w_prime": 19201,
       "w_prime_kj": 19.2,
-      "p_max": 629,
+      "p_max": 630,
       "vo2max": null
     },
     "current_metrics": {
@@ -217,19 +217,19 @@
       "benchmark_percentage": null,
       "seasonal_expected": null
     },
-    "eftp": 194.2,
-    "w_prime": 19182,
+    "eftp": 194.4,
+    "w_prime": 19201,
     "w_prime_kj": 19.2,
-    "p_max": 629,
+    "p_max": 630,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-02-20T08:03:04.472796",
+    "calculation_timestamp": "2026-02-20T08:59:26.998487",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
       "activities_7d": 3,
       "activities_28d": 18,
-      "planned_workouts_7d": 4,
+      "planned_workouts_7d": 5,
       "ftp_history_days": {
         "indoor": 0,
         "outdoor": 0
@@ -510,6 +510,15 @@
     },
     {
       "id": "event_2",
+      "date": "2026-02-20T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "12x\n-10m 122w",
+      "planned_tss": 78,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_3",
       "date": "2026-02-21T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
