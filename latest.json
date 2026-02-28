@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-02-28T11:27:43.778789",
+    "last_updated": "2026-02-28T11:45:19.991804",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -223,7 +223,7 @@
     "p_max": 624,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-02-28T11:27:43.778112",
+    "calculation_timestamp": "2026-02-28T11:45:19.991110",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -591,8 +591,8 @@
       "date": "2026-03-07T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Main Set\n- \u55e8 \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u8ba9\u6211\u4eec\u9010\u6e10\u8fdb\u5165\u72b6\u6001 15m ramp 40-60%\n- \u4f4e\u5f3a\u5ea6\u6709\u6c27\u9a91\u884c 180m ramp 55-68%\n- \u5f88\u68d2\u7684\u8bad\u7ec3 \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u653e\u677e\u4e00\u4e0b 10m ramp 60-40%\n\n[Weekly Plan - Base]",
-      "planned_tss": 125,
+      "description": "Main Set\n- \u55e8 \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u8ba9\u6211\u4eec\u5f00\u59cb\u70ed\u8eab 15m ramp 40-60%\n\n3x\n- \u8010\u529b\u57fa\u7840 40m 65%\n- \u8010\u529b\u57fa\u7840 40m 70%\n\nRecovery\n- \u5f88\u68d2\u7684\u8bad\u7ec3 \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u653e\u677e\u4e00\u4e0b 10m ramp 60-40%\n\n[Weekly Plan - Build]",
+      "planned_tss": 193,
       "duration_hours": 0.0
     }
   ],
