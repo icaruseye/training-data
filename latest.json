@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-02T15:57:09.116737",
+    "last_updated": "2026-03-02T17:00:13.392887",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -31,7 +31,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-02-17",
-    "age_days": 12,
+    "age_days": 13,
     "total_months": 20,
     "history_confidence": "high"
   },
@@ -223,7 +223,7 @@
     "p_max": 627,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-02T15:57:09.116047",
+    "calculation_timestamp": "2026-03-02T17:00:13.391663",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -602,6 +602,15 @@
       "type": "WORKOUT",
       "description": "Warmup\n- 14m ramp 40-75%\n\nMain Set\n- Endurance 1 4m ramp 56-75%\n- Surge 1 1m ramp 76-87%\n- Endurance 2 4m ramp 56-75%\n- Surge 2 2m ramp 95-105%\n- Endurance 3 4m ramp 56-75%\n- Surge 3 3m ramp 76-87%\n- Endurance 4 4m ramp 56-75%\n- Surge 4 2m ramp 95-105%\n- Endurance 5 4m ramp 56-75%\n- Surge 5 1m ramp 76-87%\n- Endurance 6 4m ramp 56-75%\n- Surge 6 1m ramp 95-105%\n- Endurance 7 4m ramp 56-75%\n- Surge 7 2m ramp 76-87%\n- Endurance 8 4m ramp 56-75%\n- Surge 8 3m ramp 95-105%\n- Endurance 9 4m ramp 56-75%\n- Surge 9 2m ramp 76-87%\n- Endurance 10 4m ramp 56-75%\n- Surge 10 1m ramp 95-105%\n- Endurance 11 4m ramp 56-75%\n- Surge 11 1m ramp 76-87%\n- Endurance 12 4m ramp 56-75%\n- Surge 12 2m ramp 95-105%\n- Endurance 13 4m ramp 56-75%\n- Surge 13 3m ramp 76-87%\n\nCooldown\n- 9m ramp 56-40%\n\n[Weekly Plan - Base]",
       "planned_tss": 87,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_7",
+      "date": "2026-03-11T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 15m ramp 40-75%\n\nMain Set\n- Endurance 89m ramp 56-75%\n\nCooldown\n- 10m ramp 56-40%\n\n[Weekly Plan - Base]",
+      "planned_tss": 78,
       "duration_hours": 0.0
     }
   ],
