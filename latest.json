@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-04T15:54:25.390798",
+    "last_updated": "2026-03-04T16:54:00.824534",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -21,7 +21,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-02-17",
-    "age_days": 14,
+    "age_days": 15,
     "total_months": 20,
     "history_confidence": "high"
   },
@@ -216,7 +216,7 @@
     "p_max": 627,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-04T15:54:25.390111",
+    "calculation_timestamp": "2026-03-04T16:54:00.823756",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -646,6 +646,15 @@
       "type": "WORKOUT",
       "description": "Warmup\n- 15m ramp 40-75%\n\nMain Set\n- Endurance 89m ramp 56-75%\n\nCooldown\n- 10m ramp 56-40%\n\n[Weekly Plan - Base]",
       "planned_tss": 78,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_7",
+      "date": "2026-03-12T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 14m ramp 40-75%\n\nMain Set\n4x\n- Sweet Spot 10m ramp 88-94%\n- Recovery 2m 55%\n\nRecovery\n- Sweet Spot 5 10m ramp 88-94%\n\nCooldown\n- 9m ramp 56-40%\n\n[Weekly Plan - Base]",
+      "planned_tss": 91,
       "duration_hours": 0.0
     }
   ],
