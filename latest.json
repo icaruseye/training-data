@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-10T15:44:52.270145",
+    "last_updated": "2026-03-10T16:41:37.456509",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -21,7 +21,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-02-17",
-    "age_days": 20,
+    "age_days": 21,
     "total_months": 20,
     "history_confidence": "high"
   },
@@ -218,7 +218,7 @@
     "p_max": 670,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-10T15:44:52.269506",
+    "calculation_timestamp": "2026-03-10T16:41:37.455808",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -648,6 +648,15 @@
       "type": "WORKOUT",
       "description": "Warmup\n- 15m ramp 40-75%\n\nMain Set\n- Endurance 1 5m ramp 56-75%\n- Surge 1 1m ramp 76-87%\n- Endurance 2 5m ramp 56-75%\n- Surge 2 2m ramp 95-105%\n- Endurance 3 5m ramp 56-75%\n- Surge 3 3m ramp 76-87%\n- Endurance 4 5m ramp 56-75%\n- Surge 4 2m ramp 95-105%\n- Endurance 5 5m ramp 56-75%\n- Surge 5 1m ramp 76-87%\n- Endurance 6 5m ramp 56-75%\n- Surge 6 1m ramp 95-105%\n- Endurance 7 5m ramp 56-75%\n- Surge 7 2m ramp 76-87%\n- Endurance 8 5m ramp 56-75%\n- Surge 8 3m ramp 95-105%\n- Endurance 9 5m ramp 56-75%\n- Surge 9 2m ramp 76-87%\n- Endurance 10 5m ramp 56-75%\n- Surge 10 1m ramp 95-105%\n- Endurance 11 5m ramp 56-75%\n- Surge 11 1m ramp 76-87%\n- Endurance 12 5m ramp 56-75%\n- Surge 12 2m ramp 95-105%\n- Endurance 13 5m ramp 56-75%\n- Surge 13 3m ramp 76-87%\n- Endurance 14 5m ramp 56-75%\n- Surge 14 2m ramp 95-105%\n- Endurance 15 5m ramp 56-75%\n- Surge 15 1m ramp 76-87%\n- Endurance 16 5m ramp 56-75%\n- Surge 16 1m ramp 95-105%\n- Endurance 17 5m ramp 56-75%\n- Surge 17 2m ramp 76-87%\n- Endurance 18 5m ramp 56-75%\n- Surge 18 3m ramp 95-105%\n- Endurance 19 5m ramp 56-75%\n- Surge 19 2m ramp 76-87%\n\nCooldown\n- 10m ramp 56-40%\n\n[Weekly Plan - Base]",
       "planned_tss": 139,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_7",
+      "date": "2026-03-18T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u597d\u6e10\u8fdb\u6709\u6c27\u3002 15m ramp 40-75%\n\nMain Set\n- Z2 Low 24m 56-60%\n- Z2 Mid 24m 64-67%\n- Z2 Upper 25m 71-75%\n\nCooldown\n- \u592a\u68d2\u4e86 \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u653e\u677e\u9a91\u884c\u3002 10m ramp 56-40%\n\n[Weekly Plan - Base]",
+      "planned_tss": 67,
       "duration_hours": 0.0
     }
   ],
