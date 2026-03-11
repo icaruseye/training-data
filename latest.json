@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-11T15:32:03.853025",
+    "last_updated": "2026-03-11T16:34:34.792982",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -40,7 +40,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-02-17",
-    "age_days": 21,
+    "age_days": 22,
     "total_months": 20,
     "history_confidence": "high"
   },
@@ -66,10 +66,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 67.0,
-      "atl": 111.27,
-      "tsb": -44.27,
-      "ramp_rate": 10.2,
+      "ctl": 63.0,
+      "atl": 88.64,
+      "tsb": -25.64,
+      "ramp_rate": 6.2,
       "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
@@ -193,15 +193,14 @@
     },
     "consistency_index": 1.0,
     "consistency_details": {
-      "planned_days": 5,
+      "planned_days": 4,
       "completed_days": 5,
-      "matched_days": 5,
+      "matched_days": 4,
       "planned_dates": [
         "2026-03-05",
         "2026-03-07",
         "2026-03-08",
-        "2026-03-10",
-        "2026-03-11"
+        "2026-03-10"
       ],
       "completed_dates": [
         "2026-03-05",
@@ -237,13 +236,13 @@
     "p_max": 670,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-11T15:32:03.852277",
+    "calculation_timestamp": "2026-03-11T16:34:34.792245",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
       "activities_7d": 7,
       "activities_28d": 19,
-      "planned_workouts_7d": 5,
+      "planned_workouts_7d": 4,
       "ftp_history_days": {
         "indoor": 0,
         "outdoor": 0
@@ -719,16 +718,7 @@
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-03-11T00:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 40-75%\n\nMain Set\n- Endurance 215m ramp 56-75%\n\nCooldown\n- 10m ramp 56-40%\n\n[Weekly Plan - Base]",
-      "planned_tss": 170,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_2",
-      "date": "2026-03-12T09:00:00",
+      "date": "2026-03-13T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "Warmup\n- 14m ramp 40-75%\n\nMain Set\n4x\n- Sweet Spot 10m ramp 88-94%\n- Recovery 2m 55%\n\nRecovery\n- Sweet Spot 5 10m ramp 88-94%\n\nCooldown\n- 9m ramp 56-40%\n\n[Weekly Plan - Base]",
@@ -736,7 +726,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_3",
+      "id": "event_2",
       "date": "2026-03-14T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -745,7 +735,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_4",
+      "id": "event_3",
       "date": "2026-03-15T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -754,7 +744,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_5",
+      "id": "event_4",
       "date": "2026-03-17T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -763,12 +753,21 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_6",
+      "id": "event_5",
       "date": "2026-03-18T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u597d\u6e10\u8fdb\u6709\u6c27\u3002 15m ramp 40-75%\n\nMain Set\n- Z2 Low 24m 56-60%\n- Z2 Mid 24m 64-67%\n- Z2 Upper 25m 71-75%\n\nCooldown\n- \u592a\u68d2\u4e86 \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u653e\u677e\u9a91\u884c\u3002 10m ramp 56-40%\n\n[Weekly Plan - Base]",
       "planned_tss": 67,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_6",
+      "date": "2026-03-19T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u8010\u529b\u9a91\u884c\u5f00\u59cb 14m ramp 40-75%\n\nMain Set\n- Settle In 17m 56-59%\n- Build 17m 59-66%\n- Upper Z2 17m 66-72%\n- Cruise 16m 72-66%\n\nCooldown\n- \u5f88\u68d2\u7684\u5b8c\u6210\uff0c\u4eab\u53d7\u653e\u677e 9m ramp 56-40%\n\n[Weekly Plan - Base]",
+      "planned_tss": 60,
       "duration_hours": 0.0
     }
   ],
