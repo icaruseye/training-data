@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-13T15:58:23.607912",
+    "last_updated": "2026-03-13T16:53:27.916756",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -40,7 +40,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-02-17",
-    "age_days": 23,
+    "age_days": 24,
     "total_months": 20,
     "history_confidence": "high"
   },
@@ -233,7 +233,7 @@
     "p_max": 670,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-13T15:58:23.607184",
+    "calculation_timestamp": "2026-03-13T16:53:27.916056",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -705,6 +705,15 @@
       "type": "WORKOUT",
       "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01 tempo \u8bad\u7ec3\u5373\u5c06\u5f00\u59cb 14m ramp 45-75%\n\nMain Set\n- Tempo 1 20m 76-87%\n- Recovery 5m 55%\n- Tempo 2 20m 76-87%\n- Recovery 5m 55%\n- Tempo 3 20m 76-87%\n\nCooldown\n- \u592a\u68d2\u4e86 \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eab\u53d7\u653e\u677e 6m ramp 65-45%\n\n[Weekly Plan - Base]",
       "planned_tss": 86,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_6",
+      "date": "2026-03-21T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u51c6\u5907\u597d\u8010\u529b\u9a91\u884c\uff01 15m ramp 45-75%\n\nMain Set\n- Settle In 49m 65-67%\n- Build 49m 67-70%\n- Upper Z2 49m 70-74%\n- Cruise 49m 74-70%\n\nCooldown\n- \u597d\u6837\u7684\uff0c\u4eab\u53d7\u653e\u677e\uff01 10m ramp 65-45%\n\n[Weekly Plan - Base]",
+      "planned_tss": 174,
       "duration_hours": 0.0
     }
   ],
