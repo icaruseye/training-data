@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-15T23:34:29.309259",
+    "last_updated": "2026-03-16T00:00:21.857483",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -51,11 +51,11 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 60.28,
-      "atl": 67.1,
-      "tsb": -6.82,
-      "ramp_rate": 1.77,
-      "fitness_source": "From Intervals.icu API (reflects completed workouts)"
+      "ctl": 58.87,
+      "atl": 58.17,
+      "tsb": 0.7,
+      "ramp_rate": 1.73,
+      "fitness_source": "Decayed from yesterday (today's planned workouts not yet completed)"
     },
     "thresholds": {
       "ftp_outdoor": 195,
@@ -176,14 +176,15 @@
         "note": "Compares 7d vs 28d Seiler TID to detect distribution shifts. pi_delta positive = more polarized acutely."
       }
     },
-    "consistency_index": 1.0,
+    "consistency_index": 0.67,
     "consistency_details": {
-      "planned_days": 2,
+      "planned_days": 3,
       "completed_days": 3,
       "matched_days": 2,
       "planned_dates": [
         "2026-03-10",
-        "2026-03-15"
+        "2026-03-15",
+        "2026-03-16"
       ],
       "completed_dates": [
         "2026-03-10",
@@ -191,11 +192,10 @@
         "2026-03-15"
       ]
     },
-    "phase_detected": "Build",
+    "phase_detected": "Taper",
     "phase_triggers": [
-      "ACWR 1.22 in 0.8-1.3",
-      "Quality Intensity 24.8% in 15-25%",
-      "Hard days 3/week >= 2"
+      "TSB 0.7 positive",
+      "CTL stable/declining"
     ],
     "seasonal_context": "Late Base / Build",
     "benchmark_indoor": {
@@ -218,13 +218,13 @@
     "p_max": 669,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-15T23:34:29.308505",
+    "calculation_timestamp": "2026-03-16T00:00:21.856746",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
       "activities_7d": 5,
       "activities_28d": 18,
-      "planned_workouts_7d": 2,
+      "planned_workouts_7d": 3,
       "ftp_history_days": {
         "indoor": 0,
         "outdoor": 0
@@ -490,21 +490,6 @@
   ],
   "wellness_data": [
     {
-      "date": "2026-03-09",
-      "weight_kg": null,
-      "resting_hr": null,
-      "hrv_rmssd": null,
-      "hrv_sdnn": null,
-      "sleep_hours": null,
-      "sleep_quality": null,
-      "sleep_score": null,
-      "mental_energy": null,
-      "fatigue": null,
-      "soreness": null,
-      "avg_sleeping_hr": null,
-      "vo2max": null
-    },
-    {
       "date": "2026-03-10",
       "weight_kg": null,
       "resting_hr": null,
@@ -593,20 +578,26 @@
       "soreness": null,
       "avg_sleeping_hr": null,
       "vo2max": null
+    },
+    {
+      "date": "2026-03-16",
+      "weight_kg": null,
+      "resting_hr": null,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
+      "sleep_quality": null,
+      "sleep_score": null,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
+      "avg_sleeping_hr": null,
+      "vo2max": null
     }
   ],
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-03-15T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\u4f60\u597d \u8ba9\u6211\u4eec\u8f7b\u677e\u8fdb\u5165\u8102\u80aa\u6700\u5927\u5316\u9a91\u884c 8m ramp 45-65% 85rpm\n\nMain Set\n- \u8f7b\u677e\u4f4eZ2\u9a91\u884c \u6b63\u5e38cadence 12m 55% 85rpm\n- \u9ad8cadence\u8f6c\u901f\u63d0\u5347 8m 65% 110rpm\n- \u6b63\u5e38cadence\u6062\u590d 5m 55% 85rpm\n- \u9ad8cadence\u8f6c\u901f\u63d0\u5347 8m 65% 110rpm\n- Z2 pickup 30s 72%\n- \u8f7b\u677e\u6062\u590d 1m 55% 85rpm\n- \u6b63\u5e38cadence 5m 55% 85rpm\n\nCooldown\n- \u4e0d\u8981\u54c7\u54c7\u53eb\u51fa\u8272\u5b8c\u6210 \u653e\u677e\u4e0b\u6765 8m ramp 60-45%\n\n[Weekly Plan - Base]",
-      "planned_tss": 32,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_2",
       "date": "2026-03-16T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -615,7 +606,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_3",
+      "id": "event_2",
       "date": "2026-03-17T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -624,7 +615,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_4",
+      "id": "event_3",
       "date": "2026-03-18T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -633,7 +624,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_5",
+      "id": "event_4",
       "date": "2026-03-19T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -642,7 +633,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_6",
+      "id": "event_5",
       "date": "2026-03-21T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -651,7 +642,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_7",
+      "id": "event_6",
       "date": "2026-03-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
