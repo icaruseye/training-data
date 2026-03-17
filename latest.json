@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-17T15:17:53.381689",
+    "last_updated": "2026-03-17T16:40:42.677715",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -31,7 +31,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-02-17",
-    "age_days": 27,
+    "age_days": 28,
     "total_months": 20,
     "history_confidence": "high"
   },
@@ -60,11 +60,11 @@
     "thresholds": {
       "ftp_outdoor": 195,
       "ftp_indoor": 195,
-      "eftp": 191.9,
+      "eftp": 191.7,
       "lthr": 175,
       "max_hr": 193,
-      "w_prime": 18953,
-      "w_prime_kj": 19.0,
+      "w_prime": 18934,
+      "w_prime_kj": 18.9,
       "p_max": 669,
       "vo2max": null
     },
@@ -211,13 +211,13 @@
       "benchmark_percentage": null,
       "seasonal_expected": null
     },
-    "eftp": 191.9,
-    "w_prime": 18953,
-    "w_prime_kj": 19.0,
+    "eftp": 191.7,
+    "w_prime": 18934,
+    "w_prime_kj": 18.9,
     "p_max": 669,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-17T15:17:53.380940",
+    "calculation_timestamp": "2026-03-17T16:40:42.676967",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -587,6 +587,15 @@
       "type": "WORKOUT",
       "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u597d\u8010\u529b\u8bad\u7ec3 9m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 11m 65-67% 85rpm\n- Build 11m 67-70% 88rpm\n- Upper Z2 11m 70-74% 90rpm\n- Cruise 12m 74-70% 88rpm\n\nCooldown\n- \u5f88\u68d2\u7684\u9a91\u884c\uff01\u597d\u597d\u653e\u677e 6m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
       "planned_tss": 45,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_6",
+      "date": "2026-03-25T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u563f \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u8f7b\u677e\u9a91\u884c\u5f00\u59cb 15m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 21m 65% 85rpm\n- Build 21m 67% 88rpm\n- Upper Z2 21m 70-74% 90rpm\n- Cruise 20m 74-70% 88rpm\n\nCooldown\n- \u9a91\u884c\u6109\u5feb\uff01\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 81,
       "duration_hours": 0.0
     }
   ],
