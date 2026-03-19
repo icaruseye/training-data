@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-19T11:51:26.967686",
+    "last_updated": "2026-03-19T13:16:18.792597",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -48,8 +48,8 @@
       "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
-      "ftp_outdoor": 195,
-      "ftp_indoor": 195,
+      "ftp_outdoor": 200,
+      "ftp_indoor": 200,
       "eftp": 191.5,
       "lthr": 175,
       "max_hr": 193,
@@ -59,8 +59,8 @@
       "vo2max": null
     },
     "current_metrics": {
-      "weight_kg": 67.0,
-      "resting_hr": 58,
+      "weight_kg": 68.0,
+      "resting_hr": 55,
       "hrv": null,
       "sleep_quality": null,
       "sleep_hours": null
@@ -69,11 +69,11 @@
   "derived_metrics": {
     "recovery_index": null,
     "hrv_baseline_7d": null,
-    "rhr_baseline_7d": null,
+    "rhr_baseline_7d": 55,
     "hrv_baseline_28d": null,
-    "rhr_baseline_28d": null,
+    "rhr_baseline_28d": 55,
     "latest_hrv": null,
-    "latest_rhr": null,
+    "latest_rhr": 55,
     "acwr": 0.96,
     "acwr_interpretation": "optimal",
     "monotony": 0.98,
@@ -191,14 +191,14 @@
     ],
     "seasonal_context": "Late Base / Build",
     "benchmark_indoor": {
-      "current_ftp": 195,
+      "current_ftp": 200,
       "ftp_8_weeks_ago": null,
       "benchmark_index": null,
       "benchmark_percentage": null,
       "seasonal_expected": null
     },
     "benchmark_outdoor": {
-      "current_ftp": 195,
+      "current_ftp": 200,
       "ftp_8_weeks_ago": null,
       "benchmark_index": null,
       "benchmark_percentage": null,
@@ -210,16 +210,16 @@
     "p_max": 668,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-03-19T11:51:26.966935",
+    "calculation_timestamp": "2026-03-19T13:16:18.791839",
     "data_quality": {
       "hrv_data_points": 0,
-      "rhr_data_points": 0,
+      "rhr_data_points": 1,
       "activities_7d": 4,
       "activities_28d": 19,
       "planned_workouts_7d": 4,
       "ftp_history_days": {
-        "indoor": 0,
-        "outdoor": 0
+        "indoor": 30,
+        "outdoor": 30
       }
     }
   },
@@ -522,8 +522,8 @@
     },
     {
       "date": "2026-03-19",
-      "weight_kg": null,
-      "resting_hr": null,
+      "weight_kg": 68.0,
+      "resting_hr": 55,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
       "sleep_hours": null,
@@ -543,7 +543,7 @@
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01 tempo \u8bad\u7ec3\u5373\u5c06\u5f00\u59cb 14m ramp 45-75%\n\nMain Set\n- Tempo 1 20m 76-87%\n- Recovery 5m 55%\n- Tempo 2 20m 76-87%\n- Recovery 5m 55%\n- Tempo 3 20m 76-87%\n\nCooldown\n- \u592a\u68d2\u4e86 \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eab\u53d7\u653e\u677e 6m ramp 65-45%\n\n[Weekly Plan - Base]",
-      "planned_tss": 86,
+      "planned_tss": 87,
       "duration_hours": 0.0
     },
     {
@@ -552,7 +552,7 @@
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u597d\u8010\u529b\u8bad\u7ec3 9m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 11m 65-67% 85rpm\n- Build 11m 67-70% 88rpm\n- Upper Z2 11m 70-74% 90rpm\n- Cruise 12m 74-70% 88rpm\n\nCooldown\n- \u5f88\u68d2\u7684\u9a91\u884c\uff01\u597d\u597d\u653e\u677e 6m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 45,
+      "planned_tss": 46,
       "duration_hours": 0.0
     },
     {
@@ -561,7 +561,7 @@
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u51c6\u5907\u597d\u8010\u529b\u9a91\u884c\uff01 15m ramp 45-75%\n\nMain Set\n- Settle In 49m 65-67%\n- Build 49m 67-70%\n- Upper Z2 49m 70-74%\n- Cruise 49m 74-70%\n\nCooldown\n- \u597d\u6837\u7684\uff0c\u4eab\u53d7\u653e\u677e\uff01 10m ramp 65-45%\n\n[Weekly Plan - Base]",
-      "planned_tss": 174,
+      "planned_tss": 175,
       "duration_hours": 0.0
     },
     {
@@ -570,7 +570,7 @@
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "Warmup\n- \u563f \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u8f7b\u677e\u9a91\u884c\u5f00\u59cb 15m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 21m 65% 85rpm\n- Build 21m 67% 88rpm\n- Upper Z2 21m 70-74% 90rpm\n- Cruise 20m 74-70% 88rpm\n\nCooldown\n- \u9a91\u884c\u6109\u5feb\uff01\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 81,
+      "planned_tss": 82,
       "duration_hours": 0.0
     },
     {
@@ -588,6 +588,6 @@
     "total_tss": 419,
     "activities_count": 4,
     "avg_hrv": null,
-    "avg_resting_hr": null
+    "avg_resting_hr": 55.0
   }
 }
