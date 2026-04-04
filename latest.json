@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-04T17:36:13.952615",
+    "last_updated": "2026-04-04T18:02:17.849613",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -217,7 +217,7 @@
     "p_max": 666,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-04T17:36:13.951873",
+    "calculation_timestamp": "2026-04-04T18:02:17.848773",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -662,51 +662,6 @@
       "type": "WORKOUT",
       "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eca\u5929\u6709\u751c\u533a\u8bad\u7ec3 11m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 2m 65-75% 85rpm\n- Sweet Spot 1 12m 88-92% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 2 11m 89% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 3 10m 90% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 4 9m 90-94% 90rpm\n- Endurance 3m 65-75% 85rpm\n\nCooldown\n- \u5e72\u5f97\u6f02\u4eae\uff0c\u4eab\u53d7\u653e\u677e 8m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
       "planned_tss": 82,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_3",
-      "date": "2026-04-07T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u597d\u4f60\u7684\u8010\u529b\u8bad\u7ec3 15m ramp 45-75% 85rpm\n\nMain Set\n- Z2 Low 28m 65% 85rpm\n- Z2 Mid 28m 69% 88rpm\n- Z2 Upper 29m 73% 90rpm\n\nCooldown\n- \u5e72\u5f97\u6f02\u4eae \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 84,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_4",
-      "date": "2026-04-08T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u597d\u8fce\u63a5\u6cd5\u7279\u83b1\u514b 15m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 1 8m 77-89% 85rpm\n- Fartlek Surge 1 1m 90-95% 95rpm\n- Endurance 2 8m 77-89% 85rpm\n- Fartlek Surge 2 2m 95% 100rpm\n- Endurance 3 8m 77-89% 85rpm\n- Fartlek Surge 3 3m 90-95% 95rpm\n- Endurance 4 8m 77-89% 85rpm\n- Fartlek Surge 4 2m 95% 100rpm\n- Endurance 5 8m 77-89% 85rpm\n- Fartlek Surge 5 1m 90-95% 95rpm\n- Endurance 6 8m 77-89% 85rpm\n- Fartlek Surge 6 1m 95% 100rpm\n- Endurance 7 8m 77-89% 85rpm\n- Fartlek Surge 7 2m 90-95% 95rpm\n- Endurance 8 8m 77-89% 85rpm\n- Fartlek Surge 8 3m 95% 100rpm\n- Endurance 9 7m 77-89% 85rpm\n- Fartlek Surge 9 2m 90-95% 95rpm\n- Endurance 10 7m 77-89% 85rpm\n\nCooldown\n- \u5f88\u68d2\u7684\u8bad\u7ec3\uff0c\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 133,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_5",
-      "date": "2026-04-09T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u957f\u6709\u6c27\u9a91\u884c\u5f00\u59cb 15m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 21m 65% 85rpm\n- Build 21m 67% 88rpm\n- Upper Z2 21m 70-74% 90rpm\n- Cruise 22m 74-70% 88rpm\n\nCooldown\n- \u505a\u5f97\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u653e\u677e\u9a91\u884c 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 84,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_6",
-      "date": "2026-04-11T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u957f\u6709\u6c27\u9a91\u884c\u5f00\u59cb\uff01 15m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 50m 65% 85rpm\n- Build 50m 67% 88rpm\n- Upper Z2 50m 70-74% 90rpm\n- Cruise 50m 74-70% 88rpm\n\nCooldown\n- \u5e72\u5f97\u6f02\u4eae\uff01\u8f7b\u677e\u6536\u5c3e\uff0c\u4eab\u53d7\u6062\u590d\u3002 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 176,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_7",
-      "date": "2026-04-12T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u597d\u8fce\u63a5\u957f\u8ddd\u79bb\u9a91\u884c 15m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 16m 65-75% 85rpm\n- Sweet Spot 1 12m 88-92% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 2 11m 89% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 3 10m 89-93% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 4 9m 90% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 5 8m 90-94% 90rpm\n- Endurance 17m 65-75% 85rpm\n\nCooldown\n- \u505a\u5f97\u597d\uff0c\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 123,
       "duration_hours": 0.0
     }
   ],
