@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-06T07:51:25.653813",
+    "last_updated": "2026-04-06T09:14:10.516108",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -207,7 +207,7 @@
     "p_max": 666,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-06T07:51:25.653043",
+    "calculation_timestamp": "2026-04-06T09:14:10.515323",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -629,8 +629,8 @@
       "date": "2026-04-21T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "-15m ramp 50-70% 85rpm\n\n3x\n-1m 200w\n-1m 45%\n\n5x\n-5m 115-120%\n-4m 60%\n\n-10m ramp 70-45%",
-      "planned_tss": 107,
+      "description": "-15m ramp 50-70% 85rpm\n\n3x\n-1m 200w\n-1m 45%\n\n3x\n-3m 115-120%\n-3m 60%\n\n-10m ramp 70-45%",
+      "planned_tss": 56,
       "duration_hours": 0.0
     },
     {
@@ -638,8 +638,8 @@
       "date": "2026-04-22T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "\n-15m ramp 45-75% 85rpm\n\n-90m 65%\n\n-10m ramp 65-45% (130-90w) 85rpm\n",
-      "planned_tss": 79,
+      "description": "\n-15m ramp 45-75% 85rpm\n\n-70m 65%\n\n-10m ramp 65-45% (130-90w) 85rpm\n",
+      "planned_tss": 64,
       "duration_hours": 0.0
     },
     {
@@ -647,8 +647,8 @@
       "date": "2026-04-23T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "\n-15m ramp 45-75% 85rpm\n\n2x\n-20m 95%-100%\n-8m 60%\n\n-10m ramp 60-45% 85rpm\n\n\n\u72b6\u6001\u597d\u5c31\u641e 1x35m",
-      "planned_tss": 96,
+      "description": "\n-15m ramp 45-75% 85rpm\n\n2x\n-10m 95%-100%\n-5m 60%\n\n-10m ramp 60-45% 85rpm\n\n\n\u72b6\u6001\u597d\u5c31\u641e 1x35m",
+      "planned_tss": 58,
       "duration_hours": 0.0
     },
     {
@@ -656,8 +656,8 @@
       "date": "2026-04-25T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "\n-15m ramp 45-75% 85rpm\n\n-120m 60-70%\n\n3x\n-15m 85-90%\n-10m 65%\n\n-80m 65-75%\n\n-10m ramp 65-45% 85rpm",
-      "planned_tss": 252,
+      "description": "\n-15m ramp 45-75% 85rpm\n\n-150m 60-70%\n\n-10m ramp 65-45% 85rpm",
+      "planned_tss": 121,
       "duration_hours": 0.0
     },
     {
