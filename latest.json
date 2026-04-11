@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-11T15:47:55.714338",
+    "last_updated": "2026-04-11T16:41:56.276565",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -211,7 +211,7 @@
     "p_max": 665,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-11T15:47:55.713542",
+    "calculation_timestamp": "2026-04-11T16:41:56.275779",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -594,6 +594,15 @@
     },
     {
       "id": "event_7",
+      "date": "2026-04-19T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u55e8 \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u597d\u8fce\u63a5\u751c\u871c\u70b9\u8bad\u7ec3 15m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 16m 65-75% 85rpm\n- Sweet Spot 1 12m 88-92% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 2 11m 89% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 3 10m 89-93% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 4 9m 90% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 5 8m 90-94% 90rpm\n- Endurance 17m 65-75% 85rpm\n\nCooldown\n- \u5e72\u5f97\u6f02\u4eae\uff0c\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 123,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_8",
       "date": "2026-04-21T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
