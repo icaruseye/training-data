@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-16T23:58:55.380010",
+    "last_updated": "2026-04-17T03:37:08.395075",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -31,7 +31,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-04-06",
-    "age_days": 10,
+    "age_days": 11,
     "total_months": 22,
     "history_confidence": "high"
   },
@@ -51,10 +51,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 71.7,
-      "atl": 85.69,
-      "tsb": -13.99,
-      "ramp_rate": 1.69,
+      "ctl": 70.01,
+      "atl": 74.28,
+      "tsb": -4.27,
+      "ramp_rate": 1.65,
       "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
@@ -70,20 +70,20 @@
     },
     "current_metrics": {
       "weight_kg": 67.0,
-      "resting_hr": 55,
+      "resting_hr": 58,
       "hrv": null,
       "sleep_quality": null,
-      "sleep_hours": 7.54
+      "sleep_hours": null
     }
   },
   "derived_metrics": {
     "recovery_index": null,
     "hrv_baseline_7d": null,
-    "rhr_baseline_7d": 58.6,
+    "rhr_baseline_7d": 59,
     "hrv_baseline_28d": null,
-    "rhr_baseline_28d": 60.5,
+    "rhr_baseline_28d": 60.7,
     "latest_hrv": null,
-    "latest_rhr": 55,
+    "latest_rhr": null,
     "acwr": 0.97,
     "acwr_interpretation": "optimal",
     "monotony": 1.41,
@@ -222,16 +222,16 @@
     "p_max": 664,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-16T23:58:55.379161",
+    "calculation_timestamp": "2026-04-17T03:37:08.394265",
     "data_quality": {
       "hrv_data_points": 0,
-      "rhr_data_points": 7,
+      "rhr_data_points": 6,
       "activities_7d": 5,
       "activities_28d": 19,
       "planned_workouts_7d": 5,
       "ftp_history_days": {
-        "indoor": 58,
-        "outdoor": 58
+        "indoor": 59,
+        "outdoor": 59
       }
     }
   },
@@ -494,21 +494,6 @@
   ],
   "wellness_data": [
     {
-      "date": "2026-04-10",
-      "weight_kg": null,
-      "resting_hr": 59,
-      "hrv_rmssd": null,
-      "hrv_sdnn": null,
-      "sleep_hours": 6.53,
-      "sleep_quality": null,
-      "sleep_score": null,
-      "mental_energy": null,
-      "fatigue": null,
-      "soreness": null,
-      "avg_sleeping_hr": null,
-      "vo2max": null
-    },
-    {
       "date": "2026-04-11",
       "weight_kg": null,
       "resting_hr": 62,
@@ -586,10 +571,25 @@
     {
       "date": "2026-04-16",
       "weight_kg": null,
-      "resting_hr": 55,
+      "resting_hr": 58,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
       "sleep_hours": 7.54,
+      "sleep_quality": null,
+      "sleep_score": null,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
+      "avg_sleeping_hr": null,
+      "vo2max": null
+    },
+    {
+      "date": "2026-04-17",
+      "weight_kg": null,
+      "resting_hr": null,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
       "sleep_quality": null,
       "sleep_score": null,
       "mental_energy": null,
@@ -602,15 +602,6 @@
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-04-16T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u51c6\u5907\u597d\u8fdb\u884c\u6cd5\u7279\u83b1\u514b\u8bad\u7ec3 15m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 1 8m 78-90% 85rpm\n- Fartlek Surge 1 1m 91-95% 95rpm\n- Endurance 2 8m 78-90% 85rpm\n- Fartlek Surge 2 2m 95% 100rpm\n- Endurance 3 8m 78-90% 85rpm\n- Fartlek Surge 3 3m 91-95% 95rpm\n- Endurance 4 8m 78-90% 85rpm\n- Fartlek Surge 4 2m 95% 100rpm\n- Endurance 5 8m 78-90% 85rpm\n- Fartlek Surge 5 1m 91-95% 95rpm\n- Endurance 6 8m 78-90% 85rpm\n- Fartlek Surge 6 1m 95% 100rpm\n- Endurance 7 8m 78-90% 85rpm\n- Fartlek Surge 7 2m 91-95% 95rpm\n- Endurance 8 8m 78-90% 85rpm\n- Fartlek Surge 8 3m 95% 100rpm\n- Endurance 9 7m 78-90% 85rpm\n- Fartlek Surge 9 2m 91-95% 95rpm\n- Endurance 10 7m 78-90% 85rpm\n\nCooldown\n- \u592a\u68d2\u4e86 \u597d\u597d\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
-      "planned_tss": 134,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_2",
       "date": "2026-04-18T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -619,7 +610,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_3",
+      "id": "event_2",
       "date": "2026-04-19T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -628,7 +619,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_4",
+      "id": "event_3",
       "date": "2026-04-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -637,7 +628,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_5",
+      "id": "event_4",
       "date": "2026-04-23T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -651,6 +642,6 @@
     "total_tss": 559,
     "activities_count": 5,
     "avg_hrv": null,
-    "avg_resting_hr": 58.6
+    "avg_resting_hr": 59.0
   }
 }
