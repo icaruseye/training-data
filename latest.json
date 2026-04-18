@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-18T15:49:54.028657",
+    "last_updated": "2026-04-18T16:49:25.140594",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -222,7 +222,7 @@
     "p_max": 664,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-18T15:49:54.027826",
+    "calculation_timestamp": "2026-04-18T16:49:25.139746",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -643,6 +643,15 @@
       "type": "WORKOUT",
       "description": "Warmup\n- \u522b\u53eb\u4e86\uff01Fat Max \u6311\u6218\u5f00\u59cb\uff01 15m ramp 45-75% 85rpm\n\nMain Set\n- Low Z2 53m 67% 85rpm\n- Settle In 53m 67-72% 85rpm\n- Cruise 54m 72-67% 88rpm\n\nCooldown\n- \u9a91\u5b8c\u4e86\uff01\u597d\u597d\u653e\u677e\uff01 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
       "planned_tss": 140,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_6",
+      "date": "2026-04-26T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u563f \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u8010\u529b\u4e0e\u52a0\u901f\u8bad\u7ec3\u6765\u5566\uff01 11m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 14m 65% 85rpm\n- Build 14m 67% 88rpm\n- Upper Z2 14m 70-74% 90rpm\n- Cruise 14m 74-70% 88rpm\n\nCooldown\n- \u5e72\u5f97\u6f02\u4eae \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eab\u53d7\u653e\u677e 8m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 56,
       "duration_hours": 0.0
     }
   ],
