@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-22T14:47:53.800107",
+    "last_updated": "2026-04-22T16:10:53.188584",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -218,7 +218,7 @@
     "p_max": 663,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-22T14:47:53.799189",
+    "calculation_timestamp": "2026-04-22T16:10:53.187801",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -661,6 +661,15 @@
     },
     {
       "id": "event_8",
+      "date": "2026-04-30T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u597d\u8fce\u63a5\u751c\u533a\u8bad\u7ec3 15m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 16m 65-75% 85rpm\n- Sweet Spot 1 12m 88-92% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 2 11m 89% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 3 10m 89-93% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 4 9m 90% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 5 8m 90-94% 90rpm\n- Endurance 17m 65-75% 85rpm\n\nCooldown\n- \u5e72\u5f97\u597d\uff0c\u4eab\u53d7\u653e\u677e\u9a91\u884c 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Base]",
+      "planned_tss": 122,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_9",
       "date": "2026-05-01T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -669,7 +678,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_9",
+      "id": "event_10",
       "date": "2026-05-02T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -678,7 +687,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_10",
+      "id": "event_11",
       "date": "2026-05-03T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -687,7 +696,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_11",
+      "id": "event_12",
       "date": "2026-05-05T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -696,7 +705,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_12",
+      "id": "event_13",
       "date": "2026-05-06T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -705,7 +714,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_13",
+      "id": "event_14",
       "date": "2026-05-07T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -714,7 +723,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_14",
+      "id": "event_15",
       "date": "2026-05-09T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -723,7 +732,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_15",
+      "id": "event_16",
       "date": "2026-05-10T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -732,7 +741,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_16",
+      "id": "event_17",
       "date": "2026-05-11T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -741,7 +750,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_17",
+      "id": "event_18",
       "date": "2026-05-13T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
