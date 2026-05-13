@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-13T16:06:32.141582",
+    "last_updated": "2026-05-13T18:16:49.115561",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -41,11 +41,11 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 73.89,
-      "atl": 87.11,
-      "tsb": -13.22,
-      "ramp_rate": 2.8,
-      "fitness_source": "Decayed from yesterday (today's planned workouts not yet completed)"
+      "ctl": 71.66,
+      "atl": 75.91,
+      "tsb": -4.25,
+      "ramp_rate": 0.57,
+      "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
       "ftp_outdoor": 205,
@@ -166,17 +166,16 @@
         "note": "Compares 7d vs 28d Seiler TID to detect distribution shifts. pi_delta positive = more polarized acutely."
       }
     },
-    "consistency_index": 0.8,
+    "consistency_index": 1.0,
     "consistency_details": {
-      "planned_days": 5,
+      "planned_days": 4,
       "completed_days": 4,
       "matched_days": 4,
       "planned_dates": [
         "2026-05-08",
         "2026-05-09",
         "2026-05-10",
-        "2026-05-12",
-        "2026-05-13"
+        "2026-05-12"
       ],
       "completed_dates": [
         "2026-05-08",
@@ -212,13 +211,13 @@
     "p_max": 655,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-13T16:06:32.140727",
+    "calculation_timestamp": "2026-05-13T18:16:49.114690",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
       "activities_7d": 4,
       "activities_28d": 19,
-      "planned_workouts_7d": 5,
+      "planned_workouts_7d": 4,
       "ftp_history_days": {
         "indoor": 85,
         "outdoor": 85
@@ -541,7 +540,7 @@
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-05-13T00:00:00",
+      "date": "2026-05-14T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "\n-90m 135W",
@@ -550,7 +549,7 @@
     },
     {
       "id": "event_2",
-      "date": "2026-05-14T00:00:00",
+      "date": "2026-05-15T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "\n-75m 135W\n-75m 140W",
@@ -559,7 +558,7 @@
     },
     {
       "id": "event_3",
-      "date": "2026-05-16T00:00:00",
+      "date": "2026-05-17T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "-Warm up 5m 50% \n-Warm up 5m 60%\n-Warm up 3m 70%\n\n2x\n-30s 90%\n-30s Z1\n\n4x\n-10m 190-195w\n-5m 55%\n\n- Cool down 5m 60%\n- Cool down 5m 50%",
@@ -568,7 +567,7 @@
     },
     {
       "id": "event_4",
-      "date": "2026-05-17T00:00:00",
+      "date": "2026-05-18T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "\n-90m 130w",
