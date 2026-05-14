@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-14T14:42:02.460937",
+    "last_updated": "2026-05-14T16:51:08.367371",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -212,7 +212,7 @@
     "p_max": 655,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-14T14:42:02.460085",
+    "calculation_timestamp": "2026-05-14T16:51:08.366486",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -604,8 +604,8 @@
       "date": "2026-05-15T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "\n-75m 135W\n-75m 140W",
-      "planned_tss": 113,
+      "description": "-Warm up 5m 50% \n-Warm up 5m 60%\n-Warm up 3m 70%\n\n2x\n-30s 90%\n-30s Z1\n\n2x\n-20m 90%\n-5m 110w\n\n- Cool down 5m 60%\n- Cool down 5m 50%",
+      "planned_tss": 79,
       "duration_hours": 0.0
     },
     {
