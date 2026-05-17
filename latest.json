@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-17T15:06:53.467333",
+    "last_updated": "2026-05-17T16:12:25.785961",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -210,7 +210,7 @@
     "p_max": 653,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-17T15:06:53.466507",
+    "calculation_timestamp": "2026-05-17T16:12:25.785109",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -566,6 +566,15 @@
     },
     {
       "id": "event_4",
+      "date": "2026-05-20T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eca\u5929\u6709\u8010\u529b\u52a0\u8282\u594f\u63a8\u3002 13m ramp 45-75% 85rpm\n\nMain Set\n4x\n- Endurance 12m 65-75% 88rpm\n- Tempo 5m 76-82% 90rpm\n\nCooldown\n- \u592a\u68d2\u4e86 \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eab\u53d7\u653e\u677e\u3002 9m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
+      "planned_tss": 74,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_5",
       "date": "2026-05-23T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
