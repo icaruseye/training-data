@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-18T12:15:16.317839",
+    "last_updated": "2026-05-18T16:02:35.399676",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -50,10 +50,10 @@
     "thresholds": {
       "ftp_outdoor": 205,
       "ftp_indoor": 205,
-      "eftp": 189.0,
+      "eftp": 188.8,
       "lthr": 175,
       "max_hr": 193,
-      "w_prime": 13108,
+      "w_prime": 13095,
       "w_prime_kj": 13.1,
       "p_max": 653,
       "vo2max": null
@@ -205,13 +205,13 @@
       "benchmark_percentage": null,
       "seasonal_expected": null
     },
-    "eftp": 189.0,
-    "w_prime": 13108,
+    "eftp": 188.8,
+    "w_prime": 13095,
     "w_prime_kj": 13.1,
     "p_max": 653,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-18T12:15:16.316972",
+    "calculation_timestamp": "2026-05-18T16:02:35.398844",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -567,11 +567,38 @@
     },
     {
       "id": "event_4",
+      "date": "2026-05-21T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u8010\u529b\u4e0e\u51b2\u523a\u5373\u5c06\u5f00\u59cb 13m ramp 45-75% 85rpm\n\nMain Set\n6x\n- Endurance 10m 65-75% 88rpm\n- Sprint 10s 150% 110rpm\n\nRecovery\n- Endurance 2m 60-70%\n\nCooldown\n- \u5b8c\u6210\u5f97\u5f88\u597d\uff0c\u4eab\u53d7\u653e\u677e 9m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
+      "planned_tss": 68,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_5",
       "date": "2026-05-23T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u4eca\u5929\u6062\u590d\u9a91\u884c\uff01 11m ramp 45-55% 85rpm\n\nMain Set\n- Easy Spin 28m 54% 85rpm\n- Loosen Up 28m 55% 90rpm\n\nCooldown\n- \u575a\u6301\u4f4f\uff0c\u6162\u6162\u653e\u677e\uff01 8m ramp 55-45% 85rpm\n\n[Weekly Plan - Recovery]",
       "planned_tss": 35,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_6",
+      "date": "2026-05-24T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u597d\u6e10\u8fdb\u6709\u6c27 13m ramp 45-75% 85rpm\n\nMain Set\n- Z2 Low 21m 65% 85rpm\n- Z2 Mid 21m 69% 88rpm\n- Z2 Upper 21m 73% 90rpm\n\nCooldown\n- \u505a\u5f97\u597d\uff0c\u4eab\u53d7\u653e\u677e\u9a91\u884c 9m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
+      "planned_tss": 63,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_7",
+      "date": "2026-05-26T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u51c6\u5907\u597d\u8fdb\u9636\u8bad\u7ec3\uff01 15m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 3m 65-75% 85rpm\n- Build 1 20m 88% 88rpm\n- Recovery 3m 55% 80rpm\n- Build 2 20m 94% 90rpm\n- Recovery 3m 55% 80rpm\n- Build 3 20m 100% 93rpm\n- Recovery 3m 55% 80rpm\n- Build 4 20m 105% 95rpm\n- Endurance 3m 65-75% 85rpm\n\nCooldown\n- \u5f88\u68d2\u7684\u52aa\u529b\uff0c\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
+      "planned_tss": 159,
       "duration_hours": 0.0
     }
   ],
