@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-23T08:35:06.843892",
+    "last_updated": "2026-05-23T10:16:16.408195",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -48,22 +48,22 @@
       "fitness_source": "Decayed from yesterday (today's planned workouts not yet completed)"
     },
     "thresholds": {
-      "ftp_outdoor": 188,
-      "ftp_indoor": 188,
-      "eftp": 197.0,
-      "lthr": 175,
+      "ftp_outdoor": 205,
+      "ftp_indoor": 197,
+      "eftp": 188.0,
+      "lthr": 174,
       "max_hr": 193,
-      "w_prime": 13902,
-      "w_prime_kj": 13.9,
+      "w_prime": 13042,
+      "w_prime_kj": 13.0,
       "p_max": 683,
       "vo2max": null
     },
     "current_metrics": {
-      "weight_kg": 67.0,
-      "resting_hr": 58,
+      "weight_kg": 66.7,
+      "resting_hr": 59,
       "hrv": null,
       "sleep_quality": null,
-      "sleep_hours": null
+      "sleep_hours": 5.88
     }
   },
   "derived_metrics": {
@@ -71,9 +71,9 @@
     "hrv_baseline_7d": null,
     "rhr_baseline_7d": 58.7,
     "hrv_baseline_28d": null,
-    "rhr_baseline_28d": 60.7,
+    "rhr_baseline_28d": 60.6,
     "latest_hrv": null,
-    "latest_rhr": null,
+    "latest_rhr": 59,
     "acwr": 0.87,
     "acwr_interpretation": "optimal",
     "monotony": 0.94,
@@ -192,29 +192,29 @@
     ],
     "seasonal_context": "Build / Early Race Season",
     "benchmark_indoor": {
-      "current_ftp": 188,
+      "current_ftp": 197,
       "ftp_8_weeks_ago": null,
       "benchmark_index": null,
       "benchmark_percentage": null,
       "seasonal_expected": null
     },
     "benchmark_outdoor": {
-      "current_ftp": 188,
+      "current_ftp": 205,
       "ftp_8_weeks_ago": null,
       "benchmark_index": null,
       "benchmark_percentage": null,
       "seasonal_expected": null
     },
-    "eftp": 197.0,
-    "w_prime": 13902,
-    "w_prime_kj": 13.9,
+    "eftp": 188.0,
+    "w_prime": 13042,
+    "w_prime_kj": 13.0,
     "p_max": 683,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-23T08:35:06.843013",
+    "calculation_timestamp": "2026-05-23T10:16:16.407371",
     "data_quality": {
       "hrv_data_points": 0,
-      "rhr_data_points": 6,
+      "rhr_data_points": 7,
       "activities_7d": 4,
       "activities_28d": 19,
       "planned_workouts_7d": 5,
@@ -523,11 +523,11 @@
     },
     {
       "date": "2026-05-23",
-      "weight_kg": null,
-      "resting_hr": null,
+      "weight_kg": 66.7,
+      "resting_hr": 59,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
-      "sleep_hours": null,
+      "sleep_hours": 5.88,
       "sleep_quality": null,
       "sleep_score": null,
       "mental_energy": null,
@@ -544,7 +544,7 @@
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "\u7ec3\u4e09\u4f11\u4e00 Block 1 Day 2\u3002\u8f7b\u677e\u6709\u6c27\uff0c\u76ee\u6807\u6062\u590d\u4e2d\u4fdd\u6301\u6709\u6c27\u91cf\u3002\u82e5\u524d\u4e00\u5929\u6062\u590d\u9a91\u540e\u817f\u4ecd\u6c89\uff0c\u7f29\u77ed\u523060\u201375min\u3002\u4e0d\u8981\u51b2\u523a\uff0c\u4e0d\u8981\u62c9Tempo\u3002\n\nWarmup\n- 15m ramp 45%-60% ftp Warmup \u8f7b\u677e\u70ed\u8eab \n\nMain Z2 123\u2013139W\uff0c\u4fdd\u6301\u53ef\u4ea4\u8c08\u5f3a\u5ea6 \n- 60m 60%-68% ftp \n\nCooldown\n- 15m ramp 60%-45% ftp Cooldown \u653e\u677e \n\n",
-      "planned_tss": 55,
+      "planned_tss": 56,
       "duration_hours": 0.0
     },
     {
@@ -553,7 +553,7 @@
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "\u7ec3\u4e09\u4f11\u4e00 Block 1 Day 3\u3002\u957f\u6709\u6c27\u63a7\u5236\u7248\uff0c\u4fdd\u7559\u6709\u6c27\u91cf\u4f46\u4e0d\u5806\u75b2\u52b3\u3002\u529f\u7387125\u2013145W\u4e3a\u4e3b\uff0c\u70ed\u5c31\u7f29\u77ed\u52302h\u3002\u8865\u7ed9\uff1a\u78b3\u6c3450\u201370g/h\uff0c\u6c34600\u2013900ml/h\uff0c\u94a0500\u2013800mg/h\u3002\n\nWarmup\n- 20m ramp 45%-62% ftp Warmup \u6e10\u8fdb\u70ed\u8eab \n\nMain Z2 125\u2013145W\uff0c\u63a7\u5236\u5fc3\u7387\u6f02\u79fb\uff0c\u4e0d\u8ddf\u8f66\u786c\u9876 \n- 2h 61%-70% ftp \n\nCooldown\n- 10m ramp 60%-45% ftp Cooldown \u653e\u677e \n\n",
-      "planned_tss": 100,
+      "planned_tss": 101,
       "duration_hours": 0.0
     },
     {
@@ -580,7 +580,7 @@
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "\u7ec3\u4e09\u4f11\u4e00 Block 2 Day 2\u3002\u6709\u6c27\u8010\u529b\u65e5\uff0c\u4e0d\u62c9Tempo\u3002\u5982\u679c5/26 SST\u505a\u5f97\u504f\u786c\uff0c\u7f29\u77ed\u523060\u201375min\u5e76\u63a7\u5236115\u2013135W\u3002\n\nWarmup\n- 15m ramp 45%-60% ftp Warmup \u8f7b\u677e\u70ed\u8eab \n\n- 30m 58%-63% ftp Lower Z2 120\u2013130W \n- 40m 63%-68% ftp Mid Z2 130\u2013140W \n- 10m 66%-70% ftp Upper Z2 135\u2013145W\uff0c\u4e0d\u8d85\u8fc7150W \n\nCooldown\n- 5m ramp 55%-45% ftp Cooldown \u653e\u677e \n\n",
-      "planned_tss": 71,
+      "planned_tss": 61,
       "duration_hours": 0.0
     },
     {
@@ -607,7 +607,7 @@
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "\u7ec3\u4e09\u4f11\u4e00 Block 3 Day 1\u3002\u5468\u672b\u957f\u6709\u6c27\u3002\u529f\u7387125\u2013145W\uff0c\u5fc3\u7387\u5c3d\u91cf<145bpm\uff0c\u907f\u514d\u957f\u65f6\u95f4Tempo\u3002\u5929\u6c14\u70ed\u5219\u7f29\u77ed\u523090\u2013120min\u3002\u8865\u7ed9\uff1a\u78b3\u6c3450\u201370g/h\uff0c\u6c34600\u2013900ml/h\u3002\n\nWarmup\n- 20m ramp 45%-62% ftp Warmup \u6e10\u8fdb\u70ed\u8eab \n\n- 2h 61%-70% ftp Main Z2 125\u2013145W\uff0c\u63a7\u5236\u5fc3\u7387\u6f02\u79fb \n\nCooldown\n- 10m ramp 60%-45% ftp Cooldown \u653e\u677e \n\n",
-      "planned_tss": 100,
+      "planned_tss": 99,
       "duration_hours": 0.0
     },
     {
@@ -616,7 +616,7 @@
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "\u7ec3\u4e09\u4f11\u4e00 Block 3 Day 2\u3002\u957fZ2\u540e\u7684\u6062\u590d\u6709\u6c27\u3002\u76ee\u6807\u8f6c\u677e\u548c\u5438\u6536\uff0c\u975e\u8bad\u7ec3\u52a0\u7801\u3002\u82e55/30\u9a91\u5f97\u5f88\u957f\u6216\u70ed\u6f02\u79fb\u660e\u663e\uff0c\u4eca\u5929\u53ef\u76f4\u63a5\u4f11\u606f\u3002\n\nWarmup\n- 15m ramp 45%-58% ftp Warmup \u8f7b\u677e\u70ed\u8eab \n\n- 50m 56%-65% ftp Easy aerobic 115\u2013133W\uff0c\u8f7b\u677e\u8f6c\u5f00 \n\nCooldown\n- 10m ramp 55%-45% ftp Cooldown \u653e\u677e \n\n",
-      "planned_tss": 42,
+      "planned_tss": 41,
       "duration_hours": 0.0
     },
     {
