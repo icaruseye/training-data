@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-25T14:11:35.556931",
+    "last_updated": "2026-05-25T16:32:59.839729",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -212,7 +212,7 @@
     "p_max": 681,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-25T14:11:35.556073",
+    "calculation_timestamp": "2026-05-25T16:32:59.838937",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -669,6 +669,15 @@
       "type": "NOTE",
       "description": "\u7ec3\u4e09\u4f11\u4e00 Block 3 Rest\u3002\u5b8c\u5168\u4f11\u606f\u4f18\u5148\u3002\u82e5\u5fc5\u987b\u901a\u52e4\uff0c100\u2013125W\u8f7b\u677e\u8f6c\uff0c\u4e0d\u8d85\u8fc760min\u3002",
       "planned_tss": null,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_10",
+      "date": "2026-06-02T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01 \u4eca\u65e5\u722c\u5761\u6311\u6218 15m ramp 45-75% 85rpm\n\nMain Set\n4x\n- Endurance 8m 65-75% 85rpm\n- Z2 Pickup 30s 86-94% 95rpm\n\nRecovery\n- Endurance 1m 65-75% 85rpm\n\n4x\n- Under 3m 95% 88rpm\n- Over 2m 105% 95rpm\n- Recovery 3m 55% 80rpm\n\n4x\n- Endurance 8m 65-75% 85rpm\n- Z2 Pickup 30s 86-94% 95rpm\n\nRecovery\n- Endurance 1m 65-75% 85rpm\n\nCooldown\n- \u5e72\u5f97\u6f02\u4eae\uff0c\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
+      "planned_tss": 121,
       "duration_hours": 0.0
     }
   ],
