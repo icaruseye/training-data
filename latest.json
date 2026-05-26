@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-26T03:59:33.483305",
+    "last_updated": "2026-05-26T07:58:03.226740",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -220,7 +220,7 @@
     "p_max": 681,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-26T03:59:33.482470",
+    "calculation_timestamp": "2026-05-26T07:58:03.225915",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -552,7 +552,7 @@
       "date": "2026-05-26T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "\u7ec3\u4e09\u4f11\u4e00 Block 2 Day 1\u3002\u4e3b\u8d28\u91cf\u8bfe\u3002\u76ee\u6807\u628a185W\u5de6\u53f3\u6301\u7eed\u65f6\u95f4\u505a\u539a\uff0c\u4e0d\u51b2190W+\u3002\u7b2c\u4e00\u7ec4184\u2013185W\uff0c\u7b2c\u4e8c\u7ec4185\u2013187W\uff1b\u82e5\u817f\u6c89\uff0c\u964d\u5230182\u2013184W\u5b8c\u6210\u3002\n\nWarmup\n- 15m ramp 45%-75% ftp Warmup \u6e10\u8fdb\u70ed\u8eab \n\n\n2x 2\u00d725 SST \u7a33\u6001\u63a8\u8fdb \n- 25m 90%-91% ftp SST 25min 184\u2013187W\uff0c\u7a33\u4f4f\u4e0d\u51b2 \n- 8m 58% ftp Recovery 8min \u8f7b\u677e\u8f6c \n\n\nCooldown\n- 7m ramp 60%-45% ftp Cooldown \u653e\u677e \n\n",
+      "description": "\u7ec3\u4e09\u4f11\u4e00 Block 2 Day 1\u3002\u4e3b\u8d28\u91cf\u8bfe\u3002\u76ee\u6807\u628a185W\u5de6\u53f3\u6301\u7eed\u65f6\u95f4\u505a\u539a\uff0c\u4e0d\u51b2190W+\u3002\u7b2c\u4e00\u7ec4184\u2013185W\uff0c\u7b2c\u4e8c\u7ec4185\u2013187W\uff1b\u82e5\u817f\u6c89\uff0c\u964d\u5230182\u2013184W\u5b8c\u6210\u3002\n\nWarmup\n- 15m ramp 45%-75% ftp Warmup \u6e10\u8fdb\u70ed\u8eab \n\n\n2x\n- 25m 90%-91% ftp SST 25min 184\u2013187W\uff0c\u7a33\u4f4f\u4e0d\u51b2 \n- 8m 58% ftp Recovery 8min \u8f7b\u677e\u8f6c \n\n\nCooldown\n- 7m ramp 60%-45% ftp Cooldown \u653e\u677e \n\n",
       "planned_tss": 96,
       "duration_hours": 0.0
     },
