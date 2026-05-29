@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-29T00:14:11.991123",
+    "last_updated": "2026-05-29T04:47:03.854661",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -59,21 +59,21 @@
       "vo2max": null
     },
     "current_metrics": {
-      "weight_kg": 67.0,
-      "resting_hr": 59,
+      "weight_kg": 65.6,
+      "resting_hr": 51,
       "hrv": null,
       "sleep_quality": null,
-      "sleep_hours": null
+      "sleep_hours": 9.53
     }
   },
   "derived_metrics": {
     "recovery_index": null,
     "hrv_baseline_7d": null,
-    "rhr_baseline_7d": 58.3,
+    "rhr_baseline_7d": 57.3,
     "hrv_baseline_28d": null,
-    "rhr_baseline_28d": 60.1,
+    "rhr_baseline_28d": 59.8,
     "latest_hrv": null,
-    "latest_rhr": null,
+    "latest_rhr": 51,
     "acwr": 0.9,
     "acwr_interpretation": "optimal",
     "monotony": 1.21,
@@ -212,10 +212,10 @@
     "p_max": 681,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-29T00:14:11.990304",
+    "calculation_timestamp": "2026-05-29T04:47:03.853733",
     "data_quality": {
       "hrv_data_points": 0,
-      "rhr_data_points": 6,
+      "rhr_data_points": 7,
       "activities_7d": 5,
       "activities_28d": 19,
       "planned_workouts_7d": 7,
@@ -560,7 +560,7 @@
     },
     {
       "date": "2026-05-28",
-      "weight_kg": 67.0,
+      "weight_kg": 65.6,
       "resting_hr": 59,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
@@ -576,10 +576,10 @@
     {
       "date": "2026-05-29",
       "weight_kg": null,
-      "resting_hr": null,
+      "resting_hr": 51,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
-      "sleep_hours": null,
+      "sleep_hours": 9.53,
       "sleep_quality": null,
       "sleep_score": null,
       "mental_energy": null,
@@ -668,6 +668,6 @@
     "total_tss": 471,
     "activities_count": 5,
     "avg_hrv": null,
-    "avg_resting_hr": 58.3
+    "avg_resting_hr": 57.3
   }
 }
