@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-02T05:11:26.123044",
+    "last_updated": "2026-06-02T09:18:27.320380",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -211,7 +211,7 @@
     "p_max": 679,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-02T05:11:26.122268",
+    "calculation_timestamp": "2026-06-02T09:18:27.319728",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -618,15 +618,6 @@
     },
     {
       "id": "event_4",
-      "date": "2026-06-03T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eca\u5929\u51c6\u5907\u8010\u529b\u9a91\u884c 15m ramp 45-75% 85rpm\n\nMain Set\n5x\n- Endurance 15m 65-75% 88rpm\n- Tempo 5m 76-82% 90rpm\n\nCooldown\n- \u505a\u5f97\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
-      "planned_tss": 103,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_5",
       "date": "2026-06-04T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -635,16 +626,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_6",
-      "date": "2026-06-04T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u8010\u529b\u52a0\u51b2\u523a\uff0c\u51c6\u5907\u597d\u4e86\u5417\uff1f 15m ramp 45-75% 85rpm\n\nMain Set\n7x\n- Endurance 13m 65-75% 88rpm\n- Sprint 10s 150% 110rpm\n\nRecovery\n- Endurance 3m 60-70%\n\nCooldown\n- \u592a\u68d2\u4e86 \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
-      "planned_tss": 96,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_7",
+      "id": "event_5",
       "date": "2026-06-05T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -653,16 +635,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_8",
-      "date": "2026-06-06T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u597d\u8010\u529b\u8bad\u7ec3 15m ramp 45-75% 85rpm\n\nMain Set\n- Z2 Low 92m 65% 85rpm\n- Z2 Mid 92m 69% 88rpm\n- Z2 Upper 91m 73% 90rpm\n\nCooldown\n- \u505a\u5f97\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
-      "planned_tss": 233,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_9",
+      "id": "event_6",
       "date": "2026-06-07T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -671,7 +644,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_10",
+      "id": "event_7",
       "date": "2026-06-09T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
