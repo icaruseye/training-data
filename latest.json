@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-04T01:43:33.922712",
+    "last_updated": "2026-06-04T06:23:30.618084",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -69,21 +69,21 @@
       "vo2max": null
     },
     "current_metrics": {
-      "weight_kg": 67.0,
-      "resting_hr": 46,
+      "weight_kg": 67.3,
+      "resting_hr": 53,
       "hrv": null,
       "sleep_quality": null,
-      "sleep_hours": null
+      "sleep_hours": 6.62
     }
   },
   "derived_metrics": {
     "recovery_index": null,
     "hrv_baseline_7d": null,
-    "rhr_baseline_7d": 54.3,
+    "rhr_baseline_7d": 55,
     "hrv_baseline_28d": null,
     "rhr_baseline_28d": 58.8,
     "latest_hrv": null,
-    "latest_rhr": null,
+    "latest_rhr": 53,
     "acwr": 0.74,
     "acwr_interpretation": "undertraining",
     "monotony": 0.96,
@@ -220,10 +220,10 @@
     "p_max": 678,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-04T01:43:33.921878",
+    "calculation_timestamp": "2026-06-04T06:23:30.617248",
     "data_quality": {
       "hrv_data_points": 0,
-      "rhr_data_points": 6,
+      "rhr_data_points": 7,
       "activities_7d": 4,
       "activities_28d": 19,
       "planned_workouts_7d": 6,
@@ -517,8 +517,8 @@
     },
     {
       "date": "2026-06-03",
-      "weight_kg": 67.0,
-      "resting_hr": 46,
+      "weight_kg": 66.2,
+      "resting_hr": 52,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
       "sleep_hours": 6.43,
@@ -532,11 +532,11 @@
     },
     {
       "date": "2026-06-04",
-      "weight_kg": null,
-      "resting_hr": null,
+      "weight_kg": 67.3,
+      "resting_hr": 53,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
-      "sleep_hours": null,
+      "sleep_hours": 6.62,
       "sleep_quality": null,
       "sleep_score": null,
       "mental_energy": null,
@@ -616,6 +616,6 @@
     "total_tss": 360,
     "activities_count": 4,
     "avg_hrv": null,
-    "avg_resting_hr": 54.3
+    "avg_resting_hr": 55.0
   }
 }
