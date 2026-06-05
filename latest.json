@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-05T00:13:44.082558",
+    "last_updated": "2026-06-05T04:50:36.230162",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -59,21 +59,21 @@
       "vo2max": null
     },
     "current_metrics": {
-      "weight_kg": 67.0,
-      "resting_hr": 53,
+      "weight_kg": 66.86667,
+      "resting_hr": 49,
       "hrv": null,
       "sleep_quality": null,
-      "sleep_hours": null
+      "sleep_hours": 6.85
     }
   },
   "derived_metrics": {
     "recovery_index": null,
     "hrv_baseline_7d": null,
-    "rhr_baseline_7d": 54.5,
+    "rhr_baseline_7d": 53.7,
     "hrv_baseline_28d": null,
-    "rhr_baseline_28d": 58.6,
+    "rhr_baseline_28d": 58.3,
     "latest_hrv": null,
-    "latest_rhr": null,
+    "latest_rhr": 49,
     "acwr": 0.89,
     "acwr_interpretation": "optimal",
     "monotony": 1.22,
@@ -211,10 +211,10 @@
     "p_max": 678,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-05T00:13:44.081748",
+    "calculation_timestamp": "2026-06-05T04:50:36.229289",
     "data_quality": {
       "hrv_data_points": 0,
-      "rhr_data_points": 6,
+      "rhr_data_points": 7,
       "activities_7d": 5,
       "activities_28d": 19,
       "planned_workouts_7d": 6,
@@ -559,7 +559,7 @@
     },
     {
       "date": "2026-06-04",
-      "weight_kg": 67.0,
+      "weight_kg": 66.86667,
       "resting_hr": 53,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
@@ -575,10 +575,10 @@
     {
       "date": "2026-06-05",
       "weight_kg": null,
-      "resting_hr": null,
+      "resting_hr": 49,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
-      "sleep_hours": null,
+      "sleep_hours": 6.85,
       "sleep_quality": null,
       "sleep_score": null,
       "mental_energy": null,
@@ -649,6 +649,6 @@
     "total_tss": 414,
     "activities_count": 5,
     "avg_hrv": null,
-    "avg_resting_hr": 54.5
+    "avg_resting_hr": 53.7
   }
 }
