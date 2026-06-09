@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-09T11:45:40.068142",
+    "last_updated": "2026-06-09T15:13:14.339413",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -214,7 +214,7 @@
     "p_max": 676,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-09T11:45:40.067291",
+    "calculation_timestamp": "2026-06-09T15:13:14.338517",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -666,7 +666,7 @@
       "date": "2026-06-11T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "SST 2\u00d730 \u5de9\u56fa/\u5c0f\u8fdb\u9636\u3002\u6309 FTP 210 \u6267\u884c\u65f6\uff0cSST \u76ee\u6807\u7ea6 185\u2013191W\u3002\u76ee\u6807\u662f\u4e24\u7ec4\u7a33\u5b9a\u3001\u5fc3\u7387\u5e73\u3001\u59ff\u52bf\u4e0d\u4e71\uff0c\u4e0d\u5237 PR\u3002\u5efa\u8bae\u7b2c1\u7ec4 185\u2013189W\uff0c\u7b2c2\u7ec4 187\u2013191W\uff1b\u4e0d\u8981\u957f\u65f6\u95f4\u8d85\u8fc7 193W\u3002\u8e0f\u9891 88\u201398rpm\uff0c\u624b\u8f7b\u3001\u9acb\u7a33\u3001\u53f3\u811a\u81ea\u7136\u89d2\u5ea6\uff0c\u4e0d\u4f4e\u8e0f\u9891\u786c\u8e29\u3002\u82e5\u4f11\u606f\u540e\u4ecd\u75b2\u52b3\uff0c\u5219\u538b\u5728 185\u2013188W \u6216\u6539 2\u00d725\u3002\n\nWarmup\n- 20m 45%-70% ftp Warmup \n\n- 30m 88%-91% ftp SST 1 \n- 8m 50%-60% ftp Recovery \n- 30m 88%-91% ftp SST 2 \n\nCooldown\n- 10m 45%-55% ftp Cooldown \n\n",
+      "description": "SST 2\u00d730 \u5de9\u56fa\u3002\u6309 FTP 210 \u6267\u884c\uff1a\u7b2c1\u7ec4 185\u2013189W\uff0c\u7b2c2\u7ec4 187\u2013191W\u3002\u4e0d\u8981\u5237 PR\uff0c\u5c3d\u91cf\u4e0d\u8981\u957f\u65f6\u95f4\u8d85\u8fc7 193W\u3002\u8e0f\u9891 88\u201398rpm\uff0c\u624b\u8f7b\u3001\u9acb\u7a33\u3001\u53f3\u811a\u81ea\u7136\u89d2\u5ea6\u3002\u6ce8\u610f\uff1aworkout steps \u4e0d\u6dfb\u52a0\u6587\u5b57\u8bf4\u660e\u3002\n- 20m 45%-70% ftp \n- 30m 88%-91% ftp \n- 8m 50%-60% ftp \n- 30m 88%-91% ftp \n- 10m 45%-55% ftp \n",
       "planned_tss": 106,
       "duration_hours": 0.0
     },
@@ -675,8 +675,8 @@
       "date": "2026-06-12T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "SST \u540e\u8f7b Z2 \u5438\u6536\u3002\u76ee\u6807\u662f\u628a D1 \u7684\u523a\u6fc0\u5438\u6536\u6389\uff0c\u4e0d\u8ffd\u901f\u5ea6\u4e0d\u52a0\u7801\u3002\u6309 FTP 210\uff0c\u4e3b\u6bb5 55\u201362% \u7ea6 116\u2013130W\uff1b\u5b9e\u9645\u5efa\u8bae 115\u2013125W \u4e3a\u4e3b\uff0c\u6700\u9ad8\u4e0d\u8981\u957f\u65f6\u95f4\u8d85\u8fc7 130W\u3002\u8e0f\u9891 85\u201395rpm\uff0c\u4e0d\u4f4e\u8e0f\u9891\u786c\u8e29\u3002\u82e5\u81c0\u56f4\u9178\u660e\u663e\u6216\u5fc3\u7387\u5f02\u5e38\u9ad8\uff0c\u7f29\u5230 60\u201375min\u3002\n\nWarmup\n- 15m 45%-58% ftp Easy warmup \n\n- 60m 55%-62% ftp Light Z2 \n\nCooldown\n- 10m 45%-55% ftp Cooldown \n\n",
-      "planned_tss": 54,
+      "description": "SST \u540e\u8f7b Z2 \u5438\u6536\u3002\u6309 FTP 210\uff1a\u4e3b\u6bb5\u7ea6 116\u2013130W\uff0c\u5b9e\u9645\u5efa\u8bae 115\u2013125W \u4e3a\u4e3b\u3002\u817f\u9a91\u677e\uff0c\u8e0f\u9891 85\u201395rpm\uff0c\u4e0d\u8ffd\u901f\u5ea6\uff0c\u4e0d\u4f4e\u8e0f\u9891\u786c\u8e29\u3002\u5982\u679c\u81c0\u56f4\u9178\u660e\u663e\uff0c\u7f29\u5230 60\u201375min\u3002\u6ce8\u610f\uff1aworkout steps \u4e0d\u6dfb\u52a0\u6587\u5b57\u8bf4\u660e\u3002\n- 15m 45%-58% ftp \n- 60m 55%-62% ftp \n- 10m 45%-55% ftp \n",
+      "planned_tss": 45,
       "duration_hours": 0.0
     },
     {
@@ -684,8 +684,8 @@
       "date": "2026-06-13T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "\u957f Z2 \u63a7\u5236\u7248\u3002\u6309 FTP 210\uff0c\u4e3b\u6bb5 60\u201366% \u7ea6 126\u2013139W\uff1b\u5b9e\u9645\u5efa\u8bae 125\u2013135W \u4e3a\u4e3b\uff0c\u72b6\u6001\u5f88\u597d\u518d\u77ed\u65f6\u95f4\u5230 136\u2013140W\u3002\u70ed\u5929\u3001\u5927\u98ce\u3001\u4eba\u591a\u6216\u817f\u6c89\u65f6\uff0c\u4e3b\u6bb5\u964d\u5230 115\u2013130W\uff0c\u603b\u65f6\u957f\u7f29\u5230 1h45\u20132h\u3002Z2 \u65e5\u5c3d\u91cf\u907f\u514d\u77ed\u5761 300W \u5c16\u5cf0\uff0c\u77ed\u5761\u63a7\u5236\u5728 230\u2013250W\uff0c\u5761\u9876\u540e\u8f7b\u8e29\u8ba9\u5fc3\u7387\u56de\u843d\u3002\u8865\u6c34\u524d\u7f6e\uff1a\u70ed\u5929 600\u2013900ml/h\uff0c\u94a0 500\u2013800mg/h\uff0c\u78b3\u6c34 40\u201360g/h\u3002\n\nWarmup\n- 20m 45%-60% ftp Warmup \n\n- 1h40m 60%-66% ftp Endurance Z2 \n\nCooldown\n- 10m 45%-55% ftp Cooldown \n\n",
-      "planned_tss": 84,
+      "description": "\u957f Z2 \u63a7\u5236\u7248\u3002\u6309 FTP 210\uff1a\u4e3b\u6bb5\u7ea6 126\u2013139W\uff0c\u5b9e\u9645\u5efa\u8bae 125\u2013135W \u4e3a\u4e3b\u3002\u70ed\u5929\u3001\u5927\u98ce\u6216\u817f\u6c89\u65f6\uff0c\u964d\u5230 115\u2013130W\uff0c\u603b\u65f6\u957f\u53ef\u7f29\u5230 1h45\u20132h\u3002Z2 \u65e5\u77ed\u5761\u5c3d\u91cf\u63a7\u5236\u5728 230\u2013250W\uff0c\u907f\u514d\u9891\u7e41 300W \u5c16\u5cf0\u3002\u6ce8\u610f\uff1aworkout steps \u4e0d\u6dfb\u52a0\u6587\u5b57\u8bf4\u660e\u3002\n- 20m 45%-60% ftp \n- 1h40m 60%-66% ftp \n- 10m 45%-55% ftp \n",
+      "planned_tss": 80,
       "duration_hours": 0.0
     },
     {
