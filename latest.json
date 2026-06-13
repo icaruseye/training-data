@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-13T15:04:29.861507",
+    "last_updated": "2026-06-13T16:47:33.463404",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -224,7 +224,7 @@
     "p_max": 675,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-13T15:04:29.860762",
+    "calculation_timestamp": "2026-06-13T16:47:33.462813",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -673,38 +673,56 @@
     },
     {
       "id": "event_3",
-      "date": "2026-06-16T09:00:00",
+      "date": "2026-06-15T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- \u4f60\u597d\uff0c\u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u8f7b\u677e\u9a91\u884c\u5f00\u59cb 13m ramp 45-75% 85rpm\n- Primer 1 30s 98% 90rpm\n- Primer recovery 30s 55% 85rpm\n- Primer 2 30s 98% 90rpm\n- Primer recovery 30s 55% 85rpm\n\nMain Set\n- Endurance 24m 65-75% 85rpm\n\n6x\n- Over 1m 105% 95rpm\n- Under 1m 95% 90rpm\n\nRecovery\n- Recovery 5m 55% 80rpm\n\n6x\n- Over 1m 105% 95rpm\n- Under 1m 95% 90rpm\n\nRecovery\n- Recovery 5m 55% 80rpm\n\n6x\n- Over 1m 105% 95rpm\n- Under 1m 95% 90rpm\n\nRecovery\n- Endurance 25m 65-75% 85rpm\n\nCooldown\n- \u505a\u5f97\u597d\uff0c\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
-      "planned_tss": 131,
+      "description": "\u5468\u671f1 D1\uff1aSST \u5bb9\u91cf\u5de9\u56fa\u3002\u6309 FTP 210W\uff1a88%-91% = 185-191W\u3002\u5efa\u8bae\u7b2c1\u7ec4 186-188W\uff0c\u7b2c2\u7ec4 188-190W\uff0c\u7b2c3\u7ec4 188-191W\u3002\u76ee\u6807\u662f\u7a33\u5b9a\u7d2f\u8ba1 60min SST\uff0c\u4e0d\u8981\u9a91\u6210 195W+\u3002workout steps \u540e\u9762\u4e0d\u63a5\u4efb\u4f55\u8bf4\u660e\u6587\u5b57\u3002\n- 20m 45%-65% ftp \n- 20m 88%-91% ftp \n- 6m 50%-60% ftp \n- 20m 88%-91% ftp \n- 6m 50%-60% ftp \n- 20m 88%-91% ftp \n- 10m 45%-55% ftp \n",
+      "planned_tss": 109,
       "duration_hours": 0.0
     },
     {
       "id": "event_4",
-      "date": "2026-06-17T09:00:00",
+      "date": "2026-06-16T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- \u55e8 \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u8010\u529b\u52a0\u8282\u594f\u9a91\u884c\u5f00\u59cb\uff01 15m ramp 45-75% 85rpm\n\nMain Set\n4x\n- Endurance 15m 65-75% 88rpm\n- Tempo 5m 76-82% 90rpm\n\nCooldown\n- \u5e72\u5f97\u6f02\u4eae\uff0c\u4eab\u53d7\u653e\u677e\u9a91\u884c 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
-      "planned_tss": 86,
+      "description": "\u5468\u671f1 D2\uff1aSST \u540e\u8f7b Z2 \u5438\u6536\u3002\u6309 FTP 210W\uff1a55%-62% = 116-130W\u3002\u5b9e\u9645\u5efa\u8bae 115-125W \u4e3a\u4e3b\uff0c\u4e0d\u8981\u957f\u65f6\u95f4\u8d85\u8fc7 130W\u3002\u76ee\u6807\u662f\u5438\u6536 D1\uff0c\u4e0d\u8ffd\u5747\u901f\u3001\u4e0d\u51b2\u5761\u3002workout steps \u540e\u9762\u4e0d\u63a5\u4efb\u4f55\u8bf4\u660e\u6587\u5b57\u3002\n- 15m 45%-55% ftp \n- 60m 55%-62% ftp \n- 10m 45%-55% ftp \n",
+      "planned_tss": 45,
       "duration_hours": 0.0
     },
     {
       "id": "event_5",
-      "date": "2026-06-18T09:00:00",
+      "date": "2026-06-17T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- \u55e8 \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eca\u5929\u8fdb\u884c\u8010\u529b\u4e0e\u529b\u91cf\u8bad\u7ec3 15m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 23m 65-75% 88rpm\n\n4x\n- Strength 1 (low cadence) 3m 82% 60rpm\n- Threshold 2m 95-100% 92rpm\n- Recovery 3m 55% 85rpm\n\nRecovery\n- Cruise 23m 65-75% 88rpm\n\nCooldown\n- \u505a\u5f97\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u4eab\u53d7\u653e\u677e 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
-      "planned_tss": 89,
+      "description": "\u5468\u671f1 D3\uff1a\u957f Z2 \u63a7\u5236\u7248\u3002\u6309 FTP 210W\uff1a60%-66% = 126-139W\u3002\u5b9e\u9645\u5efa\u8bae 125-135W \u4e3a\u4e3b\u3002\u70ed\u5929\u3001\u5927\u98ce\u6216\u817f\u6c89\u65f6\u964d\u5230 115-130W\uff0c\u53ef\u7f29\u77ed\u5230 1h45-2h\u3002Z2 \u65e5\u77ed\u5761\u5c3d\u91cf\u4e0d\u8d85\u8fc7 230W\uff0c\u907f\u514d\u9891\u7e41 280-300W\u3002workout steps \u540e\u9762\u4e0d\u63a5\u4efb\u4f55\u8bf4\u660e\u6587\u5b57\u3002\n- 20m 45%-60% ftp \n- 1h40m 60%-66% ftp \n- 10m 45%-55% ftp \n",
+      "planned_tss": 80,
       "duration_hours": 0.0
     },
     {
       "id": "event_6",
+      "date": "2026-06-18T00:00:00",
+      "name": "Planned Workout",
+      "type": "NOTE",
+      "description": "\u5468\u671f1 D4\uff1a\u5b8c\u5168\u4f11\u606f\u3002\u5efa\u8bae\u4e0d\u9a91\u8f66\u3001\u4e0d\u8dd1\u6b65\u3001\u4e0d\u505a\u817f\u90e8\u529b\u91cf\u3002\u53ef\u4ee5\u6563\u6b65 20-30min\uff0c\u8f7b\u67d4\u9acb\u90e8\u6d3b\u52a8\u3001\u6ce1\u6cab\u8f74\u3001\u8865\u78b3\u6c34\u3001\u65e9\u70b9\u7761\u3002\u91cd\u70b9\u5438\u6536 D1 SST 3\u00d720 \u548c D3 \u957f Z2\u3002",
+      "planned_tss": null,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_7",
       "date": "2026-06-20T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u4eca\u5929\u957f\u8ddd\u79bb\u8010\u529b\u9a91\u884c 15m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 58m 65% 85rpm\n- Build 58m 67% 88rpm\n- Upper Z2 58m 70-74% 90rpm\n- Cruise 56m 74-70% 88rpm\n\nCooldown\n- \u9a91\u884c\u6109\u5feb\uff01\u4eab\u53d7\u6062\u590d 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
       "planned_tss": 197,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_8",
+      "date": "2026-06-21T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u8010\u529b\u51b2\u523a\u5728\u7b49\u4f60 15m ramp 45-75% 85rpm\n\nMain Set\n7x\n- Endurance 10m 65-75% 88rpm\n- Sprint 10s 150% 110rpm\n\nRecovery\n- Endurance 4m 60-70%\n\nCooldown\n- \u5f88\u68d2\u7684\u9a91\u884c\uff0c\u653e\u677e\u8f6c\u52a8 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
+      "planned_tss": 80,
       "duration_hours": 0.0
     }
   ],
