@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-14T15:20:43.030318",
+    "last_updated": "2026-06-14T16:56:16.554263",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -212,7 +212,7 @@
     "p_max": 674,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-14T15:20:43.029442",
+    "calculation_timestamp": "2026-06-14T16:56:16.553392",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -633,6 +633,15 @@
       "type": "NOTE",
       "description": "\u5468\u671f1 D4\uff1a\u5b8c\u5168\u4f11\u606f\u3002\u5efa\u8bae\u4e0d\u9a91\u8f66\u3001\u4e0d\u8dd1\u6b65\u3001\u4e0d\u505a\u817f\u90e8\u529b\u91cf\u3002\u53ef\u4ee5\u6563\u6b65 20-30min\uff0c\u8f7b\u67d4\u9acb\u90e8\u6d3b\u52a8\u3001\u6ce1\u6cab\u8f74\u3001\u8865\u78b3\u6c34\u3001\u65e9\u70b9\u7761\u3002\u91cd\u70b9\u5438\u6536 D1 SST 3\u00d720 \u548c D3 \u957f Z2\u3002",
       "planned_tss": null,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_6",
+      "date": "2026-06-18T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 6m ramp 45-75% 85rpm\n- Primer 1 1m 91% 90rpm\n- Primer recovery 30s 55% 85rpm\n- Primer 2 1m 91% 90rpm\n- Primer recovery 30s 55% 85rpm\n\nMain Set\n- Endurance 3m 65-75% 85rpm\n- Sweet Spot 1 12m 88-92% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 2 11m 89-93% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 3 10m 90-94% 90rpm\n- Endurance 3m 65-75% 85rpm\n\nCooldown\n- 6m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
+      "planned_tss": 67,
       "duration_hours": 0.0
     }
   ],
