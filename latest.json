@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-15T16:32:02.744400",
+    "last_updated": "2026-06-15T20:15:45.695069",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -222,7 +222,7 @@
     "p_max": 674,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-15T16:32:02.743597",
+    "calculation_timestamp": "2026-06-15T20:15:45.694243",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -638,6 +638,15 @@
     },
     {
       "id": "event_5",
+      "date": "2026-06-18T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 6m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 30m 65-75% 85rpm\n\nCooldown\n- 4m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
+      "planned_tss": 30,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_6",
       "date": "2026-06-19T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -646,7 +655,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_6",
+      "id": "event_7",
       "date": "2026-06-20T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -655,7 +664,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_7",
+      "id": "event_8",
       "date": "2026-06-21T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -664,7 +673,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_8",
+      "id": "event_9",
       "date": "2026-06-22T00:00:00",
       "name": "Planned Workout",
       "type": "NOTE",
@@ -673,7 +682,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_9",
+      "id": "event_10",
       "date": "2026-06-23T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
