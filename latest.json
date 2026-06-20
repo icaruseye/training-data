@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-20T14:41:41.027824",
+    "last_updated": "2026-06-20T16:07:45.552692",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -219,7 +219,7 @@
     "p_max": 673,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-20T14:41:41.027037",
+    "calculation_timestamp": "2026-06-20T16:07:45.551909",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -616,6 +616,15 @@
       "type": "WORKOUT",
       "description": "Warmup\n- 12m ramp 45-75% 85rpm\n- Primer 1 1m 105% 90rpm\n- Primer recovery 30s 55% 85rpm\n- Primer 2 1m 105% 90rpm\n- Primer recovery 30s 55% 85rpm\n\nMain Set\n9x\n- Endurance 8m 65-75% 85rpm\n- Pickup 30s 86-94% 95rpm\n\nRecovery\n- Endurance 8m 65-75% 85rpm\n- Threshold 1 13m 105% 92rpm\n- Recovery 8m 55% 80rpm\n- Threshold 2 13m 105% 92rpm\n- Recovery 8m 55% 80rpm\n- Threshold 3 13m 105% 92rpm\n\n9x\n- Endurance 8m 65-75% 85rpm\n- Pickup 30s 86-94% 95rpm\n\nRecovery\n- Endurance 8m 65-75% 85rpm\n\nCooldown\n- 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
       "planned_tss": 259,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_10",
+      "date": "2026-06-28T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n5x\n- Endurance 14m 65-75% 88rpm\n- Tempo 5m 76-82% 90rpm\n\nCooldown\n- 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
+      "planned_tss": 99,
       "duration_hours": 0.0
     }
   ],
