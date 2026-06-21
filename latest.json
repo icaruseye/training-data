@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-21T08:58:12.303561",
+    "last_updated": "2026-06-21T11:49:09.048417",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -219,7 +219,7 @@
     "p_max": 673,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-21T08:58:12.302801",
+    "calculation_timestamp": "2026-06-21T11:49:09.047538",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -536,7 +536,107 @@
       "vo2max": null
     }
   ],
-  "planned_workouts": [],
+  "planned_workouts": [
+    {
+      "id": "event_1",
+      "date": "2026-06-25T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "- 20m 50%-75% ftp \n\n3x \n- 30s 105% ftp \n- 90s 55% ftp \n\n- 5m 55% ftp \n- 5m maxeffort \n- 10m 55% ftp \n- 10m maxeffort \n- 15m 55% ftp \n- 20m maxeffort \n- 14m 55% ftp \n",
+      "planned_tss": 51,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_2",
+      "date": "2026-06-26T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "- 1h15m 55%-60% ftp \n",
+      "planned_tss": 41,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_3",
+      "date": "2026-06-27T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "- 20m 50%-70% ftp \n\n5x \n- 4m 108%-112% ftp \n- 4m 55% ftp \n\n- 50m 65%-70% ftp \n- 10m 55% ftp \n",
+      "planned_tss": 120,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_4",
+      "date": "2026-06-28T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "- 15m 55%-65% ftp \n- 3h30m 65%-72% ftp \n- 15m 55% ftp \n",
+      "planned_tss": 180,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_5",
+      "date": "2026-06-29T00:00:00",
+      "name": "Planned Workout",
+      "type": "NOTE",
+      "description": "\u4f11\u606f\uff0b\u6838\u5fc3/\u4e0a\u80a2\u529b\u91cf",
+      "planned_tss": null,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_6",
+      "date": "2026-06-30T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "- 15m 50%-70% ftp \n\n5x \n- 4m 108%-110% ftp \n- 4m 55%-60% ftp \n\n- 55m 65%-70% ftp \n- 10m 50%-55% ftp \n",
+      "planned_tss": 120,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_7",
+      "date": "2026-07-01T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "- 60m 55%-60% ftp \n",
+      "planned_tss": 33,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_8",
+      "date": "2026-07-02T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "- 2h 65%-70% ftp \n",
+      "planned_tss": 91,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_9",
+      "date": "2026-07-03T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "- 15m 50%-70% ftp \n\n2x \n- 15m 95%-100% ftp \n- 7m 55%-60% ftp \n\n- 15m 95%-100% ftp \n- 10m 55%-60% ftp \n- 36m 65%-70% ftp \n",
+      "planned_tss": 131,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_10",
+      "date": "2026-07-04T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "- 60m 60%-65% ftp \n",
+      "planned_tss": 39,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_11",
+      "date": "2026-07-05T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "- 4h 65%-72% ftp \n",
+      "planned_tss": 188,
+      "duration_hours": 0.0
+    }
+  ],
   "weekly_summary": {
     "total_training_hours": 11.09,
     "total_tss": 548,
