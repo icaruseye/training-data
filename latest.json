@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-22T05:22:55.930797",
+    "last_updated": "2026-06-22T11:14:21.327191",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -59,7 +59,7 @@
       "vo2max": null
     },
     "current_metrics": {
-      "weight_kg": 66.5,
+      "weight_kg": 67.0,
       "resting_hr": 56,
       "hrv": null,
       "sleep_quality": null,
@@ -206,7 +206,7 @@
     "p_max": 672,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-22T05:22:55.929928",
+    "calculation_timestamp": "2026-06-22T11:14:21.326346",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -458,7 +458,7 @@
     },
     {
       "date": "2026-06-22",
-      "weight_kg": null,
+      "weight_kg": 67.0,
       "resting_hr": null,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
@@ -511,16 +511,7 @@
     },
     {
       "id": "event_5",
-      "date": "2026-06-29T00:00:00",
-      "name": "Planned Workout",
-      "type": "NOTE",
-      "description": "\u4f11\u606f\uff0b\u6838\u5fc3/\u4e0a\u80a2\u529b\u91cf",
-      "planned_tss": null,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_6",
-      "date": "2026-06-29T00:00:00",
+      "date": "2026-07-06T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "- 15m 50%-70% ftp \n\n5x \n- 4m 108%-110% ftp \n- 4m 55%-60% ftp \n\n- 55m 65%-70% ftp \n- 10m 50%-55% ftp \n",
@@ -528,8 +519,17 @@
       "duration_hours": 0.0
     },
     {
+      "id": "event_6",
+      "date": "2026-07-06T00:00:00",
+      "name": "Planned Workout",
+      "type": "NOTE",
+      "description": "\u4f11\u606f\uff0b\u6838\u5fc3/\u4e0a\u80a2\u529b\u91cf",
+      "planned_tss": null,
+      "duration_hours": 0.0
+    },
+    {
       "id": "event_7",
-      "date": "2026-06-30T00:00:00",
+      "date": "2026-07-07T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "- 60m 55%-60% ftp \n",
@@ -538,7 +538,7 @@
     },
     {
       "id": "event_8",
-      "date": "2026-07-01T00:00:00",
+      "date": "2026-07-08T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "- 90m 65%-70% ftp \n",
@@ -547,7 +547,7 @@
     },
     {
       "id": "event_9",
-      "date": "2026-07-02T00:00:00",
+      "date": "2026-07-09T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "- 15m 50%-70% ftp \n\n2x \n- 15m 95%-100% ftp \n- 6m 55%-60% ftp \n\n- 15m 95%-100% ftp \n- 10m 55%-60% ftp \n- 38m 65%-70% ftp \n",
@@ -556,7 +556,7 @@
     },
     {
       "id": "event_10",
-      "date": "2026-07-04T00:00:00",
+      "date": "2026-07-11T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "- 210m 65%-72% ftp \n",
@@ -565,7 +565,7 @@
     },
     {
       "id": "event_11",
-      "date": "2026-07-05T00:00:00",
+      "date": "2026-07-12T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "- 60m 55%-65% ftp \n",
