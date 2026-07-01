@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-01T18:31:34.327642",
+    "last_updated": "2026-07-01T20:29:26.928467",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -229,7 +229,7 @@
     "p_max": 670,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-01T18:31:34.326845",
+    "calculation_timestamp": "2026-07-01T20:29:26.927696",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -774,8 +774,8 @@
       "date": "2026-07-02T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "-15m Z1-Z2\n-3m 120W\n-3m 130W\n-3m 140W\n-3m 150W\n-3m 160W\n-3m 170W\n-1m 190W\n-1m 210W\n-1m 230W\n-1m 250W\n-1m 270W\n-1m 290W\n-10m cool down\nRecord MAP, HRmax and RR intervals for DFA \u03b11.",
-      "planned_tss": 50,
+      "description": "-10m 80W-110W\n-6m 125W\n-6m 140W\n-6m 155W\n-6m 170W\n-1m 185W\n-1m 200W\n-1m 215W\n-1m 230W\n-1m 245W\n-1m 260W\n-1m 275W\n-1m 290W\n-10m 45%\nRecord MAP, HRmax and RR intervals for DFA \u03b11.",
+      "planned_tss": 57,
       "duration_hours": 0.0
     },
     {
