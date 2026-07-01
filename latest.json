@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-01T08:35:45.633867",
+    "last_updated": "2026-07-01T11:44:13.884763",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -228,7 +228,7 @@
     "p_max": 670,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-01T08:35:45.633103",
+    "calculation_timestamp": "2026-07-01T11:44:13.883948",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -755,15 +755,6 @@
     },
     {
       "id": "event_6",
-      "date": "2026-07-04T00:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- 12m ramp 45-75% 85rpm\n- Primer 1 1m 91% 90rpm\n- Primer recovery 30s 55% 85rpm\n- Primer 2 1m 91% 90rpm\n- Primer recovery 30s 55% 85rpm\n\nMain Set\n9x\n- Endurance 8m 65-75% 85rpm\n- Pickup 30s 86-94% 95rpm\n\nRecovery\n- Endurance 4m 65-75% 85rpm\n- Sweet Spot 1 12m 88-92% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 2 11m 89% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 3 10m 89-93% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 4 9m 90% 90rpm\n- Recovery 3m 55% 85rpm\n- Sweet Spot 5 8m 90-94% 90rpm\n\n9x\n- Endurance 8m 65-75% 85rpm\n- Pickup 30s 86-94% 95rpm\n\nRecovery\n- Endurance 5m 65-75% 85rpm\n\nCooldown\n- 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
-      "planned_tss": 236,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_7",
       "date": "2026-07-05T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -772,80 +763,17 @@
       "duration_hours": 0.0
     },
     {
+      "id": "event_7",
+      "date": "2026-07-06T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 12m ramp 45-75% 85rpm\n- Primer 1 30s 98% 90rpm\n- Primer recovery 30s 55% 85rpm\n- Primer 2 30s 98% 90rpm\n- Primer recovery 30s 55% 85rpm\n\nMain Set\n- Endurance 10m 65-75% 85rpm\n\n6x\n- Over 1m 105% 95rpm\n- Under 1m 95% 90rpm\n\nRecovery\n- Recovery 5m 55% 80rpm\n\n6x\n- Over 1m 105% 95rpm\n- Under 1m 95% 90rpm\n\nRecovery\n- Recovery 5m 55% 80rpm\n\n6x\n- Over 1m 105% 95rpm\n- Under 1m 95% 90rpm\n\nRecovery\n- Endurance 11m 65-75% 85rpm\n\nCooldown\n- 9m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
+      "planned_tss": 106,
+      "duration_hours": 0.0
+    },
+    {
       "id": "event_8",
-      "date": "2026-07-06T00:00:00",
-      "name": "Planned Workout",
-      "type": "NOTE",
-      "description": "\u4f11\u606f\uff0b\u6838\u5fc3/\u4e0a\u80a2\u529b\u91cf",
-      "planned_tss": null,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_9",
-      "date": "2026-07-08T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u55e8 \u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u597d\u8fce\u63a5FTP\u6311\u6218 6m ramp 45-75% 85rpm\n- Primer 1 1m 98% 90rpm\n- Primer recovery 30s 55% 85rpm\n- Primer 2 1m 98% 90rpm\n- Primer recovery 30s 55% 85rpm\n\nMain Set\n- Endurance 4m 65-75% 85rpm\n- Threshold 1 15m 95% 90rpm\n- Recovery 8m 55% 80rpm\n- Threshold 2 15m 98-105% 95rpm\n- Endurance 3m 65-75% 85rpm\n\nCooldown\n- 6m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
-      "planned_tss": 74,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_10",
-      "date": "2026-07-09T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n7x\n- Endurance 13m 65-75% 88rpm\n- Sprint 10s 150% 110rpm\n\nRecovery\n- Endurance 3m 60-70%\n\nCooldown\n- 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
-      "planned_tss": 96,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_11",
-      "date": "2026-07-14T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- 12m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 15m 65% 85rpm\n- Build 15m 67% 88rpm\n- Upper 15m 70-74% 90rpm\n- Cruise 15m 74-70% 88rpm\n\nCooldown\n- 8m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
-      "planned_tss": 60,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_12",
-      "date": "2026-07-15T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- 7m ramp 45-75% 85rpm\n- Primer 1 30s 100% 90rpm\n- Primer recovery 30s 55% 85rpm\n- Primer 2 30s 100% 90rpm\n- Primer recovery 30s 55% 85rpm\n\nMain Set\n- Endurance 8m 65-75% 85rpm\n\n4x\n- Under 3m 95% 88rpm\n- Over 2m 105% 95rpm\n- Recovery 3m 55% 80rpm\n\nRecovery\n- Endurance 8m 65-75% 85rpm\n\nCooldown\n- 6m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
-      "planned_tss": 68,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_13",
-      "date": "2026-07-16T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- 12m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 15m 65% 85rpm\n- Build 15m 67% 88rpm\n- Upper 15m 70-74% 90rpm\n- Cruise 15m 74-70% 88rpm\n\nCooldown\n- 8m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
-      "planned_tss": 60,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_14",
-      "date": "2026-07-18T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 33m 65% 85rpm\n- Build 33m 67% 88rpm\n- Upper 33m 70-74% 90rpm\n- Cruise 31m 74-70% 88rpm\n\nCooldown\n- 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
-      "planned_tss": 119,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_15",
-      "date": "2026-07-19T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- 12m ramp 45-75% 85rpm\n\nMain Set\n6x\n- Endurance 9m 65-75% 88rpm\n- Sprint 10s 150% 110rpm\n\nRecovery\n- Endurance 5m 60-70%\n\nCooldown\n- 8m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
-      "planned_tss": 64,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_16",
-      "date": "2026-07-21T09:00:00",
+      "date": "2026-07-07T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
       "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 24m 65% 85rpm\n- Build 24m 67% 88rpm\n- Upper 24m 70-74% 90rpm\n- Cruise 23m 74-70% 88rpm\n\nCooldown\n- 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
@@ -853,12 +781,120 @@
       "duration_hours": 0.0
     },
     {
+      "id": "event_9",
+      "date": "2026-07-08T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 7m ramp 45-75% 85rpm\n- Primer 1 30s 98% 90rpm\n- Primer recovery 30s 55% 85rpm\n- Primer 2 30s 98% 90rpm\n- Primer recovery 30s 55% 85rpm\n\nMain Set\n6x\n- Over 1m 105% 95rpm\n- Under 1m 95% 90rpm\n\nRecovery\n- Recovery 5m 55% 80rpm\n\n6x\n- Over 1m 105% 95rpm\n- Under 1m 95% 90rpm\n\nRecovery\n- Recovery 5m 55% 80rpm\n\n6x\n- Over 1m 105% 95rpm\n- Under 1m 95% 90rpm\n\nCooldown\n- 6m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
+      "planned_tss": 81,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_10",
+      "date": "2026-07-09T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 14m 65-70% 85rpm\n- Steady 81m 70% 88rpm\n\nCooldown\n- 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
+      "planned_tss": 92,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_11",
+      "date": "2026-07-11T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n- Low 72m 65% 85rpm\n- Mid 72m 69% 88rpm\n- Upper 71m 73% 90rpm\n\nCooldown\n- 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
+      "planned_tss": 186,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_12",
+      "date": "2026-07-12T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n5x\n- Endurance 15m 65-75% 88rpm\n- Tempo 5m 76-82% 90rpm\n\nCooldown\n- 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
+      "planned_tss": 103,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_13",
+      "date": "2026-07-13T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 12m ramp 45-75% 85rpm\n- Primer 1 30s 100% 90rpm\n- Primer recovery 30s 55% 85rpm\n- Primer 2 30s 100% 90rpm\n- Primer recovery 30s 55% 85rpm\n\nMain Set\n- Endurance 19m 65-75% 85rpm\n\n4x\n- Under 3m 95% 88rpm\n- Over 2m 105% 95rpm\n- Recovery 3m 55% 80rpm\n\nRecovery\n- Endurance 19m 65-75% 85rpm\n\nCooldown\n- 9m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
+      "planned_tss": 92,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_14",
+      "date": "2026-07-14T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 14m ramp 45-75% 85rpm\n\nMain Set\n5x\n- Endurance 10m 65-75% 88rpm\n- Spin-Up 1m 75% 110rpm\n\nRecovery\n- Endurance 6 12m 65-75% 88rpm\n\nCooldown\n- 9m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
+      "planned_tss": 70,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_15",
+      "date": "2026-07-15T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 9m ramp 45-75% 85rpm\n\nMain Set\n- Build 1 13m 88-93% 88rpm\n- Recovery 3m 55% 80rpm\n- Build 2 13m 97-102% 92rpm\n- Recovery 3m 55% 80rpm\n- Build 3 13m 105% 95rpm\n\nCooldown\n- 6m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
+      "planned_tss": 81,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_16",
+      "date": "2026-07-16T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 14m ramp 45-75% 85rpm\n\nMain Set\n6x\n- Endurance 11m 65-75% 88rpm\n- Sprint 10s 150% 110rpm\n\nCooldown\n- 9m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
+      "planned_tss": 72,
+      "duration_hours": 0.0
+    },
+    {
       "id": "event_17",
+      "date": "2026-07-18T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n7x\n- Endurance 22m 65-75% 88rpm\n- Sprint 10s 150% 110rpm\n\nRecovery\n- Endurance 5m 60-70%\n\nCooldown\n- 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
+      "planned_tss": 150,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_18",
+      "date": "2026-07-19T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 14m ramp 45-75% 85rpm\n\nMain Set\n5x\n- High Cadence 6m 70% 100rpm\n- Low Cadence 6m 70% 70rpm\n\nRecovery\n- High Cadence 6 7m 70% 100rpm\n\nCooldown\n- 9m ramp 65-45% 85rpm\n\n[Weekly Plan - Recovery]",
+      "planned_tss": 68,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_19",
+      "date": "2026-07-20T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 11m ramp 45-75% 85rpm\n- Primer 1 1m 100% 90rpm\n- Primer recovery 30s 55% 85rpm\n- Primer 2 1m 100% 90rpm\n- Primer recovery 30s 55% 85rpm\n\nMain Set\n- Endurance 14m 65-75% 85rpm\n- Threshold 1 15m 95-100% 92rpm\n- Recovery 8m 55% 80rpm\n- Threshold 2 15m 95-100% 92rpm\n- Endurance 15m 65-75% 85rpm\n\nCooldown\n- 9m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
+      "planned_tss": 99,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_20",
+      "date": "2026-07-21T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 33m 65-75% 88rpm\n\n4x\n- Strength 1 (low cadence) 3m 82% 60rpm\n- Threshold 2m 95-100% 92rpm\n- Recovery 3m 55% 85rpm\n\nRecovery\n- Cruise 33m 65-75% 88rpm\n\nCooldown\n- 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
+      "planned_tss": 105,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_21",
       "date": "2026-07-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 6m ramp 45-75% 85rpm\n- Primer 1 1m 113% 90rpm\n- Primer recovery 30s 55% 85rpm\n- Primer 2 1m 113% 90rpm\n- Primer recovery 30s 55% 85rpm\n\nMain Set\n- Endurance 3m 65-75% 85rpm\n\n7x\n- VO2max 3m 106-120% 100rpm\n- Recovery 3m 55% 80rpm\n\nRecovery\n- Endurance 3m 65-75% 85rpm\n\nCooldown\n- 6m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
-      "planned_tss": 84,
+      "description": "Warmup\n- 9m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 3m 65-75% 85rpm\n\n13x\n- On 30s 121% 100rpm\n- Off 15s 55% 80rpm\n\nRecovery\n- Set Recovery 5m 55% 80rpm\n\n13x\n- On 30s 121% 100rpm\n- Off 15s 55% 80rpm\n\nRecovery\n- Set Recovery 5m 55% 80rpm\n\n13x\n- On 30s 121% 100rpm\n- Off 15s 55% 80rpm\n\nRecovery\n- Endurance 4m 65-75% 85rpm\n\nCooldown\n- 6m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
+      "planned_tss": 76,
       "duration_hours": 0.0
     }
   ],
