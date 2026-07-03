@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-03T16:37:51.821662",
+    "last_updated": "2026-07-03T18:02:23.069954",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -239,7 +239,7 @@
     "p_max": 670,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 55.0,
-    "calculation_timestamp": "2026-07-03T16:37:51.820881",
+    "calculation_timestamp": "2026-07-03T18:02:23.069205",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -784,8 +784,8 @@
       "date": "2026-07-04T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n- Low 72m 67% 85rpm\n- Settle In 72m 67-72% 85rpm\n- Cruise 71m 72-67% 88rpm\n\nCooldown\n- 10m ramp 65-45% 85rpm\n\n[Weekly Plan - Build]",
-      "planned_tss": 184,
+      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n-150m 155w\n\nCooldown\n- 15m ramp 75-45% 85rpm\n\n[Weekly Plan - Build]",
+      "planned_tss": 158,
       "duration_hours": 0.0
     },
     {
