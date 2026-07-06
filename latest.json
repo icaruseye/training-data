@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-06T08:38:19.818333",
+    "last_updated": "2026-07-06T12:27:36.128571",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -229,7 +229,7 @@
     "p_max": 668,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-06T08:38:19.817574",
+    "calculation_timestamp": "2026-07-06T12:27:36.127779",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -612,8 +612,8 @@
       "date": "2026-07-06T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "VO\u2082max session. Keep cadence 90\u2013100 rpm on work intervals. Aim controlled hard breathing, not all-out. FTP reference 207W.\n\nWarmup\n- 15m ramp 55%-75% ftp Warm-up 15min \n\n\n5x 5\u00d74min VO\u2082max @108\u2013110% FTP \n- 4m intensity=interval 108%-110% ftp VO\u2082max 4min \n- 4m intensity=recovery 50% ftp Recovery 4min \n\n\nCooldown\n- 10m 50% ftp Cool-down 10min \n\n",
-      "planned_tss": 76,
+      "description": "VO\u2082max session with race-openers warm-up added. Keep cadence 90\u2013100 rpm on work intervals. Aim controlled hard breathing, not all-out. FTP reference 207W.\n\nWarm-up added:\n10 min Z1\u2192Z2\n3 min Tempo 170\u2013180W\n2 min Easy\n3\u00d730s @250\u2013260W with easy recoveries: 90s, 90s, 2min\n\nMain set: 5\u00d74min @108\u2013110% FTP, 4min easy between.\nCool-down 10min.\n\nWarmup\n- 10m ramp intensity=warmup 55%-75% ftp Warm-up 10min Z1\u2192Z2 \n\n- 3m intensity=active 170W-180W Tempo opener 3min 170\u2013180W \n- 2m intensity=recovery 50% ftp Easy 2min \n- 30s intensity=interval 250W-260W Opener 30s @250\u2013260W \n- 90s intensity=recovery 50% ftp Easy 90s \n- 30s intensity=interval 250W-260W Opener 30s @250\u2013260W \n- 90s intensity=recovery 50% ftp Easy 90s \n- 30s intensity=interval 250W-260W Opener 30s @250\u2013260W \n- 2m intensity=recovery 50% ftp Easy 2min before main set \n\n5x 5\u00d74min VO\u2082max @108\u2013110% FTP \n- 4m intensity=interval 108%-110% ftp VO\u2082max 4min \n- 4m intensity=recovery 50% ftp Recovery 4min \n\n\nCooldown\n- 10m intensity=cooldown 50% ftp Cool-down 10min \n\n",
+      "planned_tss": 82,
       "duration_hours": 0.0
     },
     {
