@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-07T08:43:53.139076",
+    "last_updated": "2026-07-07T11:32:54.404054",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -66,7 +66,7 @@
     },
     "current_metrics": {
       "weight_kg": 65.5,
-      "resting_hr": 59,
+      "resting_hr": 54,
       "hrv": null,
       "sleep_quality": null,
       "sleep_hours": 4.91
@@ -75,11 +75,11 @@
   "derived_metrics": {
     "recovery_index": null,
     "hrv_baseline_7d": null,
-    "rhr_baseline_7d": 57.7,
+    "rhr_baseline_7d": 57,
     "hrv_baseline_28d": null,
-    "rhr_baseline_28d": 58.7,
+    "rhr_baseline_28d": 58.5,
     "latest_hrv": null,
-    "latest_rhr": 59,
+    "latest_rhr": 54,
     "acwr": 0.82,
     "acwr_interpretation": "optimal",
     "monotony": 1.06,
@@ -219,7 +219,7 @@
     "p_max": 668,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-07T08:43:53.138156",
+    "calculation_timestamp": "2026-07-07T11:32:54.403142",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -583,7 +583,7 @@
     {
       "date": "2026-07-07",
       "weight_kg": null,
-      "resting_hr": 59,
+      "resting_hr": 54,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
       "sleep_hours": 4.91,
@@ -650,6 +650,24 @@
       "description": "Rest or free arrangement. If weekly volume needs to increase and fatigue is low, optional 1-1.5h very easy recovery/Z2. Otherwise full rest.",
       "planned_tss": null,
       "duration_hours": 0.0
+    },
+    {
+      "id": "event_7",
+      "date": "2026-07-12T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "- 60m 50% Very Easy Spin",
+      "planned_tss": 25,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_8",
+      "date": "2026-07-13T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "- 90m 60% Steady Z2",
+      "planned_tss": 64,
+      "duration_hours": 0.0
     }
   ],
   "weekly_summary": {
@@ -657,6 +675,6 @@
     "total_tss": 409,
     "activities_count": 5,
     "avg_hrv": null,
-    "avg_resting_hr": 57.7
+    "avg_resting_hr": 57.0
   }
 }
