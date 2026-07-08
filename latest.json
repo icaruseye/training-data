@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-08T16:14:26.122396",
+    "last_updated": "2026-07-08T17:53:52.411255",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -220,7 +220,7 @@
     "p_max": 668,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 55.0,
-    "calculation_timestamp": "2026-07-08T16:14:26.121499",
+    "calculation_timestamp": "2026-07-08T17:53:52.410417",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -714,8 +714,8 @@
       "date": "2026-07-09T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Threshold session. Controlled hard, steady power, avoid going over target early. Cadence 85\u201395 rpm.\n\nWarmup\n- 15m ramp 55%-80% ftp Warm-up 15min \n\n\n3x 3\u00d710min threshold \n- 10m intensity=interval 98%-100% ftp Threshold 10min \n- 3m intensity=recovery 50% ftp Recovery 5min \n\n\nCooldown\n- 15m 50% ftp Cool-down 15min \n\n",
-      "planned_tss": 80,
+      "description": "Threshold session. Controlled hard, steady power, avoid going over target early. Cadence 85\u201395 rpm.\n\nWarmup\n- 15m ramp 55%-80% ftp Warm-up 15min \n\n\n3x\n- 12m intensity=interval 98%-100% ftp Threshold 10min \n- 4m intensity=recovery 50% ftp Recovery 5min \n\n\nCooldown\n- 15m 50% ftp Cool-down 15min \n\n",
+      "planned_tss": 92,
       "duration_hours": 0.0
     },
     {
@@ -743,15 +743,6 @@
       "type": "NOTE",
       "description": "Rest or free arrangement. If weekly volume needs to increase and fatigue is low, optional 1-1.5h very easy recovery/Z2. Otherwise full rest.",
       "planned_tss": null,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_6",
-      "date": "2026-07-12T00:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "- 60m 50% Very Easy Spin",
-      "planned_tss": 25,
       "duration_hours": 0.0
     }
   ],
