@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-09T08:55:15.091390",
+    "last_updated": "2026-07-09T12:09:03.969354",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -219,7 +219,7 @@
     "p_max": 668,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-09T08:55:15.090540",
+    "calculation_timestamp": "2026-07-09T12:09:03.968468",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -653,8 +653,8 @@
       "date": "2026-07-09T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Threshold session. Controlled hard, steady power, avoid going over target early. Cadence 85\u201395 rpm.\n\nWarmup\n- 15m ramp 55%-80% ftp Warm-up 15min \n\n\n3x\n- 12m intensity=interval 98%-100% ftp Threshold 10min \n- 4m intensity=recovery 50% ftp Recovery 5min \n\n\nCooldown\n- 15m 50% ftp Cool-down 15min \n\n",
-      "planned_tss": 92,
+      "description": "Threshold session. Controlled hard, steady power, avoid going over target early. Cadence 85\u201395 rpm. Low-cost warmup added: progressive endurance, short tempo, 2 light openers, then main set.\n\nWarmup\n- 10m ramp 80W-135W 10 min progressive @80\u2013135W \n\n- 5m 135W-150W 5 min steady aerobic @135\u2013150W \n- 2m 165W-175W 2 min tempo low @165\u2013175W \n- 3m intensity=recovery 80W-110W 3 min easy @80\u2013110W \n\n2x 2\u00d730s light openers \n- 30s 215W-230W 30s opener @215\u2013230W \n- 90s intensity=recovery 80W-100W 90s easy @80\u2013100W \n\n- 4m intensity=recovery 80W-110W 4 min easy before main set \n\n3x Main set: 3\u00d712min threshold \n- 12m intensity=interval 98%-100% ftp Threshold 12min @98\u2013100% FTP \n- 4m intensity=recovery 50% ftp Recovery 4min @50% FTP \n\n\nCooldown\n- 15m 50% ftp Cool-down 15min @50% FTP \n\n",
+      "planned_tss": 100,
       "duration_hours": 0.0
     },
     {
