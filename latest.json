@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-12T06:37:58.450729",
+    "last_updated": "2026-07-12T08:54:22.997084",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -218,7 +218,7 @@
     "p_max": 666,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-12T06:37:58.449933",
+    "calculation_timestamp": "2026-07-12T08:54:22.996309",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -658,47 +658,65 @@
     },
     {
       "id": "event_2",
-      "date": "2026-07-13T09:00:00",
+      "date": "2026-07-13T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 11m ramp 45-75% 85rpm\n- Primer 1 1m 91% 90rpm\n- Primer recovery 30s 55%\n- Primer 2 1m 91% 90rpm\n- Primer recovery 30s 55%\n\nMain Set\n- Endurance 2m 65-75% 85rpm\n- Sweet Spot 1 12m 88-92% 90rpm\n- Recovery 3m 55%\n- Sweet Spot 2 11m 89% 90rpm\n- Recovery 3m 55%\n- Sweet Spot 3 10m 89-93% 90rpm\n- Recovery 3m 55%\n- Sweet Spot 4 9m 90% 90rpm\n- Recovery 3m 55%\n- Sweet Spot 5 8m 90-94% 90rpm\n- Endurance 3m 65-75% 85rpm\n\nCooldown\n- 9m ramp 65-45%\n\n[Weekly Plan - Recovery]",
-      "planned_tss": 99,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_3",
-      "date": "2026-07-14T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u4f60\u597d \u4e0d\u8981\u54c7\u54c7\u53eb! Endurance \u9a91\u884c\u5f00\u59cb\uff01 14m ramp 45-75% 85rpm\n\nMain Set\n5x\n- Endurance 10m 65-75% 88rpm\n- Spin-Up 1m 75% 110rpm\n\nRecovery\n- Endurance 6 12m 65-75% 88rpm\n\nCooldown\n- 9m ramp 65-45%\n\n[Weekly Plan - Recovery]",
-      "planned_tss": 70,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_4",
-      "date": "2026-07-15T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- 14m ramp 45-75% 85rpm\n\nMain Set\n6x\n- Endurance 11m 65-75% 88rpm\n- Sprint 10s 150% 110rpm\n\nCooldown\n- 9m ramp 65-45%\n\n[Weekly Plan - Recovery]",
+      "description": "Adjusted from planned 3x13min. Start with 3 blocks of 10 x 30/15 because last week LT1 + threshold density caused failed threshold. If block 2 feels controlled, allow +1-2 reps in block 3 next time, not today.\n\nWarmup\n- 15m ramp 50%-75% ftp Warmup 15min progressive \n\n\n3x Openers \n- 30s 100%-110% ftp 30s open \n- 90s 50%-60% ftp Easy \n\n\n10x Block 1: 10 x 30/15 \n- 30s 120%-123% ftp 95rpm-105rpm Cadence ON 30s \n- 15s 50%-60% ftp OFF 15s \n\n- 5m 45%-55% ftp Block recovery 5min \n\n10x Block 2: 10 x 30/15 \n- 30s 120%-123% ftp 95rpm-105rpm Cadence ON 30s \n- 15s 50%-60% ftp OFF 15s \n\n- 5m 45%-55% ftp Block recovery 5min \n\n10x Block 3: 10 x 30/15 \n- 30s 120%-123% ftp 95rpm-105rpm Cadence ON 30s \n- 15s 50%-60% ftp OFF 15s \n\n\nCooldown\n- 10m 55%-45% ftp Cooldown \n\n",
       "planned_tss": 72,
       "duration_hours": 0.0
     },
     {
-      "id": "event_5",
-      "date": "2026-07-16T09:00:00",
+      "id": "event_3",
+      "date": "2026-07-14T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 14m ramp 45-75% 85rpm\n\nMain Set\n- Low 22m 65% 85rpm\n- Mid 22m 69% 88rpm\n- Upper 23m 73% 90rpm\n\nCooldown\n- 9m ramp 65-45%\n\n[Weekly Plan - Recovery]",
-      "planned_tss": 67,
+      "description": "Moved to Tuesday. This follows Monday 30/15, so keep it light: 65-70% FTP, HR preferably <=140-143. If Monday VO2 felt hard, cut to 75-90min or drop to 60-65%.\n\nWarmup\n- 10m ramp 50%-65% ftp Warmup \n\n- 1h40m 65%-70% ftp 85rpm-95rpm Cadence Light LT1 aerobic cap \n\nCooldown\n- 10m 60%-45% ftp Cooldown \n\n",
+      "planned_tss": 87,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_4",
+      "date": "2026-07-15T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Moved to Wednesday after Tuesday LT1. Keep this genuinely easy before Thursday threshold. No tempo, no sprints.\n\nWarmup\n- 10m 45%-55% ftp Easy warmup \n\n- 40m 50%-60% ftp Recovery endurance \n\nCooldown\n- 10m 50%-45% ftp Cooldown \n\n",
+      "planned_tss": 28,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_5",
+      "date": "2026-07-16T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Moved to Thursday because Friday is fixed rest day. Goal is completion and clean steady work. If Wednesday LT1 leaves fatigue, do 2x12 instead or cap at 93-94%. If RPE is low, last 5min of rep 2 may rise to 98%.\n\nWarmup\n- 15m ramp 50%-75% ftp Warmup 15min \n\n\n2x Openers \n- 1m 95%-105% ftp 1min opener \n- 2m 50%-60% ftp Easy \n\n- 15m 93%-96% ftp 85rpm-95rpm Cadence Threshold rep 1 \n- 8m 45%-55% ftp Recovery 8min \n- 15m 93%-96% ftp 85rpm-95rpm Cadence Threshold rep 2 \n\nCooldown\n- 10m 55%-45% ftp Cooldown \n\n",
+      "planned_tss": 75,
       "duration_hours": 0.0
     },
     {
       "id": "event_6",
-      "date": "2026-07-18T09:00:00",
+      "date": "2026-07-17T00:00:00",
+      "name": "Planned Workout",
+      "type": "NOTE",
+      "description": "Fixed Friday rest day. Optional 20-30min light mobility/core/glute activation only. No heavy legs, no soreness. If Thursday threshold felt hard, skip strength completely.",
+      "planned_tss": null,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_7",
+      "date": "2026-07-18T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n12x\n- High Cadence 6m 70% 100rpm\n- Low Cadence 6m 70% 70rpm\n\nRecovery\n- High Cadence 13 11m 70% 100rpm\n\nCooldown\n- 10m ramp 65-45%\n\n[Weekly Plan - Recovery]",
-      "planned_tss": 142,
+      "description": "Reduced from 3.5-4h and changed 6x30s @120% to short neuromuscular sprints. Keep endurance focus. If heat/fatigue is high, skip sprints and ride 2.5-3h Z2.\n\nWarmup\n- 15m ramp 50%-65% ftp Warmup \n\n- 2h 60%-68% ftp Z2 endurance \n\n4x Short sprints, optional if fresh \n- 10s freeride maxeffort 8-10s clean sprint \n- 5m 45%-55% ftp Full easy recovery \n\n- 30m 60%-66% ftp Z2 after sprints \n\nCooldown\n- 10m 55%-45% ftp Cooldown \n\n",
+      "planned_tss": 129,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_8",
+      "date": "2026-07-19T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Recovery only. Rest is acceptable if HRV/sleep/legs are poor. No intensity.\n- 60m 45%-55% ftp Very easy spin or skip and rest \n",
+      "planned_tss": 25,
       "duration_hours": 0.0
     }
   ],
