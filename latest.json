@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-12T08:54:22.997084",
+    "last_updated": "2026-07-12T10:36:40.916496",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -218,7 +218,7 @@
     "p_max": 666,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-12T08:54:22.996309",
+    "calculation_timestamp": "2026-07-12T10:36:40.915740",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -706,7 +706,7 @@
       "date": "2026-07-18T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Reduced from 3.5-4h and changed 6x30s @120% to short neuromuscular sprints. Keep endurance focus. If heat/fatigue is high, skip sprints and ride 2.5-3h Z2.\n\nWarmup\n- 15m ramp 50%-65% ftp Warmup \n\n- 2h 60%-68% ftp Z2 endurance \n\n4x Short sprints, optional if fresh \n- 10s freeride maxeffort 8-10s clean sprint \n- 5m 45%-55% ftp Full easy recovery \n\n- 30m 60%-66% ftp Z2 after sprints \n\nCooldown\n- 10m 55%-45% ftp Cooldown \n\n",
+      "description": "Reduced from 3.5-4h and changed 6x30s @120% to short neuromuscular sprints. Keep endurance focus. If heat/fatigue is high, skip sprints and ride 2.5-3h Z2.\n\nWarmup\n- 15m ramp 50%-65% ftp\n\n- 2h 60%-68% ftp\n\n4x\n-10s 500w\n-5m 45%-55% ftp\n\n-30m 60%-66% ftp\n\nCooldown\n- 10m 55%-45% ftp Cooldown \n",
       "planned_tss": 129,
       "duration_hours": 0.0
     },
