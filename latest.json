@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-21T11:23:30.279531",
+    "last_updated": "2026-07-21T12:55:15.056908",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -223,7 +223,7 @@
     "p_max": 663,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-21T11:23:30.278803",
+    "calculation_timestamp": "2026-07-21T12:55:15.056112",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -606,8 +606,8 @@
       "date": "2026-07-21T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "LT1\u6709\u6c27\u5bb9\u91cf\u65e5\u3002\u76ee\u6807\u662f\u6062\u590d\u5468\u524d\u8865\u5bb9\u91cf\uff0c\u4f46\u9ad8\u6e29\u4e0b\u4e25\u683c\u63a7\u5fc3\u7387\uff1b\u5982\u679c\u5fc3\u7387\u660e\u663e\u98d8\u9ad8\uff0c\u9a912h\u5de6\u53f3\u5373\u53ef\uff0c\u4e0d\u786c\u51d12.5h\u3002\u5efa\u8bae\u529f\u7387\u7ea665-70% FTP\uff0c\u4f53\u611f\u8f7b\u677e\u53ef\u6301\u7eed\u3002\n\nWarmup\n- 15m ramp 50%-65% ftp Warmup 15min \n\n- 1h30m 65%-70% ftp LT1 / high Z2 steady 90min \n- 30m freeride 60%-68% ftp Optional extension 30min only if cool and HR stable \n\nCooldown\n- 15m 50% ftp Cooldown 15min \n\n",
-      "planned_tss": 99,
+      "description": "LT1\u6709\u6c27\u5bb9\u91cf\u65e5\u3002\u76ee\u6807\u662f\u6062\u590d\u5468\u524d\u8865\u5bb9\u91cf\uff0c\u4f46\u9ad8\u6e29\u4e0b\u4e25\u683c\u63a7\u5fc3\u7387\uff1b\u5982\u679c\u5fc3\u7387\u660e\u663e\u98d8\u9ad8\uff0c\u9a912h\u5de6\u53f3\u5373\u53ef\uff0c\u4e0d\u786c\u51d12.5h\u3002\u5efa\u8bae\u529f\u7387\u7ea665-70% FTP\uff0c\u4f53\u611f\u8f7b\u677e\u53ef\u6301\u7eed\u3002\n\nWarmup\n- 15m ramp 50%-65% ftp Warmup 15min \n\n- 1h30m 65%-70% ftp\n- 30m freeride 60%-68% ftp Optional extension 30min only if cool and HR stable \n\nCooldown\n- 15m 50% ftp Cooldown 15min \n\n",
+      "planned_tss": 104,
       "duration_hours": 0.0
     },
     {
