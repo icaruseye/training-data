@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-26T04:06:39.339460",
+    "last_updated": "2026-07-26T06:49:11.895861",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -229,7 +229,7 @@
     "p_max": 662,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-26T04:06:39.338738",
+    "calculation_timestamp": "2026-07-26T06:49:11.895058",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -618,47 +618,65 @@
     },
     {
       "id": "event_2",
-      "date": "2026-07-27T09:00:00",
+      "date": "2026-07-27T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 13m ramp 45-75% 85rpm\n- Primer 1 30s 98% 90rpm\n- Primer recovery 30s 55%\n- Primer 2 30s 98% 90rpm\n- Primer recovery 30s 55%\n\nMain Set\n- Endurance 16m 65-75% 85rpm\n\n6x\n- Over 1m 105% 95rpm\n- Under 1m 95% 90rpm\n\nRecovery\n- Recovery 5m 55%\n\n6x\n- Over 1m 105% 95rpm\n- Under 1m 95% 90rpm\n\nRecovery\n- Recovery 5m 55%\n\n6x\n- Over 1m 105% 95rpm\n- Under 1m 95% 90rpm\n\nRecovery\n- Endurance 17m 65-75% 85rpm\n\nCooldown\n- 10m ramp 65-45%\n\n[Weekly Plan - Build]",
-      "planned_tss": 119,
+      "description": "Recovery week VO2 touch. Keep it controlled: 3x3min at 110% FTP, not a maximal VO2 session. If legs feel flat or HR is unusually high, do 2 reps only and spin easy.\n\nWarmup\n- 15m ramp 45%-70% ftp Warmup 15min \n\n\n2x Openers 2x30s \n- 30s 100% ftp 30s @100% FTP \n- 90s 50% ftp 90s easy \n\n\n3x VO2 touch 3x3min \n- 3m 110% ftp 3min @110% FTP \n- 3m 50% ftp 3min easy \n\n- 15m 50%-60% ftp Easy endurance 15min \n\nCooldown\n- 12m 45% ftp Cooldown 12min \n\n",
+      "planned_tss": 55,
       "duration_hours": 0.0
     },
     {
       "id": "event_3",
-      "date": "2026-07-28T09:00:00",
+      "date": "2026-07-28T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n- Low 38m 63% 85rpm\n- Settle In 38m 63-68% 85rpm\n- Cruise 39m 68-63% 88rpm\n\nCooldown\n- 10m ramp 65-45%\n\n[Weekly Plan - Build]",
-      "planned_tss": 95,
+      "description": "Recovery week endurance. Keep it aerobic and capped. Suggested 120-135W or about 58-65% FTP, HR ideally below 135-140. Stop at 90min if heat or fatigue shows up.\n\nWarmup\n- 15m ramp 45%-60% ftp Warmup 15min \n\n- 1h15m 58%-65% ftp Z2 steady 75min \n- 15m freeride 55%-62% ftp Optional easy extension 15min \n\nCooldown\n- 15m 45% ftp Cooldown 15min \n\n",
+      "planned_tss": 76,
       "duration_hours": 0.0
     },
     {
       "id": "event_4",
-      "date": "2026-07-29T09:00:00",
+      "date": "2026-07-29T00:00:00",
       "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n4x\n- Endurance 8m 65-75% 85rpm\n- Pickup 30s 86-94% 95rpm\n\nRecovery\n- Endurance 6m 65-75% 85rpm\n- 70 rpm 4m 76% 70rpm\n- 80 rpm 4m 84% 80rpm\n- 90 rpm 4m 91% 90rpm\n- 100 rpm 4m 96% 100rpm\n- 110 rpm 4m 100% 110rpm\n- 100 rpm 4m 96% 100rpm\n- 90 rpm 4m 91% 90rpm\n- 80 rpm 4m 84% 80rpm\n- 70 rpm 4m 76% 70rpm\n\n4x\n- Endurance 8m 65-75% 85rpm\n- Pickup 30s 86-94% 95rpm\n\nRecovery\n- Endurance 7m 65-75% 85rpm\n\nCooldown\n- 10m ramp 65-45%\n\n\n[Weekly Plan - Build]",
-      "planned_tss": 137,
+      "type": "NOTE",
+      "description": "\u6062\u590d\u5468\u4f11\u606f\u65e5\u3002\u4e0d\u8981\u8865\u5f3a\u5ea6\uff1b\u53ef\u4ee5\u505a\u8f7b\u677e\u62c9\u4f38\u3001\u6563\u6b65\u6216\u7b80\u5355\u6d3b\u52a8\u5ea6\u3002\u76ee\u6807\u662f\u8ba9\u5468\u4e00/\u5468\u4e8c\u7684\u6b8b\u4f59\u75b2\u52b3\u7ee7\u7eed\u4e0b\u964d\u3002",
+      "planned_tss": null,
       "duration_hours": 0.0
     },
     {
       "id": "event_5",
-      "date": "2026-07-30T09:00:00",
+      "date": "2026-07-30T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 14m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 11m 65-70% 85rpm\n- Steady 60m 70% 88rpm\n\nCooldown\n- 9m ramp 65-45%\n\n[Weekly Plan - Build]",
-      "planned_tss": 71,
+      "description": "Recovery week light tempo only. Do not turn this into sweet spot. Keep cadence smooth and HR controlled. If legs feel flat, ride Z2 only.\n\nWarmup\n- 15m ramp 45%-65% ftp Warmup 15min \n\n\n2x Tempo 2x10min \n- 10m 80%-85% ftp 10min @80-85% FTP \n- 6m 55% ftp 6min easy \n\n- 20m freeride 55%-65% ftp Easy endurance 20min \n\nCooldown\n- 8m 45% ftp Cooldown 8min \n\n",
+      "planned_tss": 55,
       "duration_hours": 0.0
     },
     {
       "id": "event_6",
-      "date": "2026-08-01T09:00:00",
+      "date": "2026-07-31T00:00:00",
+      "name": "Planned Workout",
+      "type": "NOTE",
+      "description": "\u56fa\u5b9a\u4f11\u606f\u65e5\u3002\u6062\u590d\u5468\u4e0d\u505a\u529b\u91cf\u52a0\u7801\uff0c\u6700\u591a\u8f7b\u91cf\u6838\u5fc3/\u62c9\u4f38\u3002\u91cd\u70b9\u662f\u7761\u7720\u3001\u8865\u6c34\u3001\u964d\u6e29\u3002",
+      "planned_tss": null,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_7",
+      "date": "2026-08-01T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n7x\n- Endurance 29m 65-75% 88rpm\n- Sprint 10s 150% 110rpm\n\nRecovery\n- Endurance 2m 60-70%\n\nCooldown\n- 10m ramp 65-45%\n\n[Weekly Plan - Build]",
-      "planned_tss": 187,
+      "description": "Recovery week long endurance. No SST, no sprints. Keep it conversational and finish fresher than you started. If outdoors hot, cap at 2h.\n\nWarmup\n- 15m ramp 45%-60% ftp Warmup 15min \n\n- 1h45m 58%-68% ftp Z2 steady 105min \n- 15m freeride 55%-62% ftp Optional easy extension 15min \n\nCooldown\n- 15m 45% ftp Cooldown 15min \n\n",
+      "planned_tss": 96,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_8",
+      "date": "2026-08-02T00:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Optional recovery spin. If fatigue is still high, take full rest instead. Keep HR low and avoid any intensity.\n- 35m freeride 40%-52% ftp Easy recovery 35min \n\nCooldown\n- 10m 40% ftp Cooldown 10min \n\n",
+      "planned_tss": 15,
       "duration_hours": 0.0
     }
   ],
