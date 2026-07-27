@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-27T17:01:51.911428",
+    "last_updated": "2026-07-27T18:48:15.320152",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -229,7 +229,7 @@
     "p_max": 660,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 56.0,
-    "calculation_timestamp": "2026-07-27T17:01:51.910737",
+    "calculation_timestamp": "2026-07-27T18:48:15.319492",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -621,8 +621,8 @@
       "date": "2026-07-28T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Recovery week endurance. Keep it aerobic and capped. Suggested 120-135W or about 58-65% FTP, HR ideally below 135-140. Stop at 90min if heat or fatigue shows up.\n\nWarmup\n- 15m ramp 45%-60% ftp Warmup 15min \n\n- 1h15m 58%-65% ftp Z2 steady 75min \n- 15m freeride 55%-62% ftp Optional easy extension 15min \n\nCooldown\n- 15m 45% ftp Cooldown 15min \n\n",
-      "planned_tss": 76,
+      "description": "Recovery week endurance. Keep it aerobic and capped. Suggested 120-135W or about 58-65% FTP, HR ideally below 135-140. Stop at 90min if heat or fatigue shows up.\n\nWarmup\n- 15m ramp 45%-60% ftp Warmup 15min \n\n- 1h15m 58%-65% ftp \n- 15m freeride 55%-62% ftp Optional easy extension 15min \n\nCooldown\n- 15m 45% ftp Cooldown 15min \n\n",
+      "planned_tss": 69,
       "duration_hours": 0.0
     },
     {
@@ -657,8 +657,8 @@
       "date": "2026-08-01T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Recovery week long endurance. No SST, no sprints. Keep it conversational and finish fresher than you started. If outdoors hot, cap at 2h.\n\nWarmup\n- 15m ramp 45%-60% ftp Warmup 15min \n\n- 1h45m 58%-68% ftp Z2 steady 105min \n- 15m freeride 55%-62% ftp Optional easy extension 15min \n\nCooldown\n- 15m 45% ftp Cooldown 15min \n\n",
-      "planned_tss": 96,
+      "description": "Recovery week long endurance. No SST, no sprints. Keep it conversational and finish fresher than you started. If outdoors hot, cap at 2h.\n\nWarmup\n- 15m ramp 45%-60% ftp Warmup 15min \n\n- 1h45m 58%-68% ftp\n- 15m freeride 55%-62% ftp Optional easy extension 15min \n\nCooldown\n- 15m 45% ftp Cooldown 15min \n\n",
+      "planned_tss": 90,
       "duration_hours": 0.0
     },
     {
