@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-08-26T11:48:53.351953",
+    "last_updated": "2026-08-26T12:59:09.587995",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -227,7 +227,7 @@
     "p_max": 779,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-08-26T11:48:53.351157",
+    "calculation_timestamp": "2026-08-26T12:59:09.587408",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -760,11 +760,11 @@
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-08-26T09:00:00",
+      "date": "2026-08-26T00:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- 9m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 7m 65-70% 85rpm\n- Steady 38m 70% 88rpm\n\nCooldown\n- 6m ramp 65-45%\n\n[Weekly Plan - Build]",
-      "planned_tss": 45,
+      "description": "\u539f\u8ba1\u5212LT1\u6709\u6c273\u5c0f\u65f6\u3002\u9ad8\u6e29\u65f6\u4ee5LT1\u5fc3\u7387\u4e3a\u4e0a\u9650\u3002\n\nWarmup\n- 15m ramp 50%-65% ftp \n\n- 1h35m 60%-72% ftp LT1\u6709\u6c27 \n\nCooldown\n- 10m 60%-45% ftp \n\n",
+      "planned_tss": 82,
       "duration_hours": 0.0
     },
     {
@@ -801,6 +801,15 @@
       "type": "WORKOUT",
       "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 23m 65-75% 85rpm\n- Build 1 10m 88% 88rpm\n- Recovery 3m 55%\n- Build 2 10m 94% 90rpm\n- Recovery 3m 55%\n- Build 3 10m 100% 93rpm\n- Recovery 3m 55%\n- Build 4 10m 105% 95rpm\n- Endurance 23m 65-75% 85rpm\n\nCooldown\n- 10m ramp 65-45%\n\n[Weekly Plan - Build]",
       "planned_tss": 129,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_6",
+      "date": "2026-09-02T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 9m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 1 11m 65-75% 88rpm\n- Tempo 1 5m 76-82% 90rpm\n- Endurance 2 11m 65-75% 88rpm\n- Tempo 2 5m 76-82% 90rpm\n- Endurance 3 11m 65-75% 88rpm\n- Endurance 2m 60-70%\n\nCooldown\n- 6m ramp 65-45%\n\n[Weekly Plan - Build]",
+      "planned_tss": 49,
       "duration_hours": 0.0
     }
   ],
