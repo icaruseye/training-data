@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-09-11T17:16:48.936616",
+    "last_updated": "2026-09-11T19:57:23.107833",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -75,7 +75,7 @@
       "vo2max": 56.0
     },
     "current_metrics": {
-      "weight_kg": 67.0,
+      "weight_kg": 66.0,
       "resting_hr": 61,
       "hrv": null,
       "sleep_quality": null,
@@ -222,7 +222,7 @@
     "p_max": 796,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 56.0,
-    "calculation_timestamp": "2026-09-11T17:16:48.934563",
+    "calculation_timestamp": "2026-09-11T19:57:23.106207",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 5,
@@ -432,7 +432,7 @@
     },
     {
       "date": "2026-09-11",
-      "weight_kg": null,
+      "weight_kg": 66.0,
       "resting_hr": null,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
@@ -490,6 +490,15 @@
       "type": "WORKOUT",
       "description": "Warmup\n- 581s ramp 45-75% 85rpm\n\nMain Set\n- Primer 1 48s 100% 90rpm\n- Primer recovery 24s 55%\n- Primer 2 48s 100% 90rpm\n- Primer recovery 24s 55%\n- Endurance 14m 65-75% 85rpm\n- Threshold 1 12m 95-100% 92rpm\n- Recovery 388s 55%\n- Threshold 2 12m 95-100% 92rpm\n- Recovery 388s 55%\n- Threshold 3 12m 95-100% 92rpm\n- Endurance 14m 65-75% 85rpm\n\nCooldown\n- 484s ramp 65-45%",
       "planned_tss": 109,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_6",
+      "date": "2026-09-19T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n8x\n- Endurance 18m 65-75% 88rpm\n- Spin-Up 1m 75% 110rpm\n\nRecovery\n- Endurance 9 18m 65-75% 88rpm\n\nCooldown\n- 10m ramp 65-45%\n\n\n[Weekly Plan - Peak \u00b7 type:enduranceSpinUps]",
+      "planned_tss": 154,
       "duration_hours": 0.0
     }
   ],
