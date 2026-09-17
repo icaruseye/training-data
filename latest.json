@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-09-16T21:57:40.186874",
+    "last_updated": "2026-09-17T00:18:09.629716",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -21,7 +21,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-08-31",
-    "age_days": 16,
+    "age_days": 17,
     "total_months": 27,
     "history_confidence": "high"
   },
@@ -47,19 +47,19 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 55.04,
-      "atl": 35.18,
-      "tsb": 19.86,
-      "ramp_rate": -2.87,
-      "fitness_source": "From Intervals.icu API (reflects completed workouts)"
+      "ctl": 53.74,
+      "atl": 30.49,
+      "tsb": 23.25,
+      "ramp_rate": -2.81,
+      "fitness_source": "Decayed from yesterday (today's planned workouts not yet completed)"
     },
     "thresholds": {
       "ftp_outdoor": 212,
       "ftp_indoor": 202,
-      "eftp": 208.4,
+      "eftp": 208.2,
       "lthr": 172,
       "max_hr": 193,
-      "w_prime": 17505,
+      "w_prime": 17487,
       "w_prime_kj": 17.5,
       "p_max": 792,
       "vo2max": null
@@ -75,7 +75,7 @@
   "derived_metrics": {
     "recovery_index": null,
     "hrv_baseline_7d": null,
-    "rhr_baseline_7d": 57.7,
+    "rhr_baseline_7d": 57,
     "hrv_baseline_28d": null,
     "rhr_baseline_28d": 57.3,
     "latest_hrv": null,
@@ -172,15 +172,16 @@
         "note": "Compares 7d vs 28d Seiler TID to detect distribution shifts. pi_delta positive = more polarized acutely."
       }
     },
-    "consistency_index": 0.67,
+    "consistency_index": 0.5,
     "consistency_details": {
-      "planned_days": 3,
+      "planned_days": 4,
       "completed_days": 4,
       "matched_days": 2,
       "planned_dates": [
         "2026-09-12",
         "2026-09-14",
-        "2026-09-15"
+        "2026-09-15",
+        "2026-09-17"
       ],
       "completed_dates": [
         "2026-09-11",
@@ -191,7 +192,7 @@
     },
     "phase_detected": "Recovery",
     "phase_triggers": [
-      "TSB 19.86 > +10"
+      "TSB 23.25 > +10"
     ],
     "seasonal_context": "Late Season / Transition",
     "benchmark_indoor": {
@@ -208,22 +209,22 @@
       "benchmark_percentage": null,
       "seasonal_expected": null
     },
-    "eftp": 208.4,
-    "w_prime": 17505,
+    "eftp": 208.2,
+    "w_prime": 17487,
     "w_prime_kj": 17.5,
     "p_max": 792,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-09-16T21:57:40.186273",
+    "calculation_timestamp": "2026-09-17T00:18:09.628957",
     "data_quality": {
       "hrv_data_points": 0,
-      "rhr_data_points": 6,
+      "rhr_data_points": 5,
       "activities_7d": 4,
       "activities_28d": 17,
-      "planned_workouts_7d": 3,
+      "planned_workouts_7d": 4,
       "ftp_history_days": {
-        "indoor": 211,
-        "outdoor": 211
+        "indoor": 212,
+        "outdoor": 212
       }
     }
   },
@@ -435,21 +436,6 @@
   ],
   "wellness_data": [
     {
-      "date": "2026-09-10",
-      "weight_kg": null,
-      "resting_hr": 61,
-      "hrv_rmssd": null,
-      "hrv_sdnn": null,
-      "sleep_hours": 6.96,
-      "sleep_quality": null,
-      "sleep_score": null,
-      "mental_energy": null,
-      "fatigue": null,
-      "soreness": null,
-      "avg_sleeping_hr": null,
-      "vo2max": null
-    },
-    {
       "date": "2026-09-11",
       "weight_kg": 66.0,
       "resting_hr": 54,
@@ -538,6 +524,21 @@
       "soreness": null,
       "avg_sleeping_hr": null,
       "vo2max": null
+    },
+    {
+      "date": "2026-09-17",
+      "weight_kg": null,
+      "resting_hr": null,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
+      "sleep_quality": null,
+      "sleep_score": null,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
+      "avg_sleeping_hr": null,
+      "vo2max": null
     }
   ],
   "planned_workouts": [
@@ -601,6 +602,6 @@
     "total_tss": 277,
     "activities_count": 4,
     "avg_hrv": null,
-    "avg_resting_hr": 57.7
+    "avg_resting_hr": 57.0
   }
 }
