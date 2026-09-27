@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-09-27T13:03:38.379313",
+    "last_updated": "2026-09-27T17:45:38.671263",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -228,7 +228,7 @@
     "p_max": 959,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 55.0,
-    "calculation_timestamp": "2026-09-27T13:03:38.378518",
+    "calculation_timestamp": "2026-09-27T17:45:38.670514",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
@@ -587,8 +587,8 @@
       "date": "2026-09-30T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Z2 \u6709\u6c27 90min \u2014 \u7eaf\u4e8c\u533a\uff0c\u7ed9\u8d28\u91cf\u8bfe\u5f53\u300c\u5438\u6536\u300d\u3002\n\n\u529f\u7387\uff08\u53cc\u53e3\u5f84\uff09\uff1a\n  \u4e3b\u6bb5 \u53f0\u5b50/ERG 127-145 W\uff0863-72%\uff09 \u2192 \u8868\u4e0a\u529f\u7387\u8ba1\u8bfb\u5230 133-152 W\n  65-72%\uff08\u53f0\u5b50 131-145 W\uff09\u7528\u4e8e 90-120 min \u7684\u8bfe\uff1b63-68%\uff08\u53f0\u5b50 127-137 W\uff09\u7528\u4e8e 3 h \u4ee5\u4e0a\u7684\u8bfe\u3002\n  \u5fc3\u7387\u4e0a\u9650\uff1a90-120 min \u7684\u8bfe\u9501 148\uff1b3 h \u4ee5\u4e0a\u7684\u8bfe\u9501 145\u3002\n\u8865\u7ed9\uff1a\u6bcf\u5c0f\u65f6 50-60 g \u78b3\u6c34 + 500-750 ml \u6c34\uff0c\u7b2c 40 \u5206\u949f\u5c31\u5f00\u5403\u3002\n\nWarmup\n- 10m ramp 55-68% 88rpm\n\nMain Set\n- 70m 65-72% 88rpm\n\nCooldown\n- 10m 55-60% 85rpm\n",
-      "planned_tss": 66,
+      "description": "Z2 \u6709\u6c27 60min \u2014 \u7eaf\u4e8c\u533a\u5438\u6536\u65e5\u3002\u672c\u5468\u4e3b\u52a8\u780d\u6389 30min\uff1a9/24\u20139/26 \u8fde\u7eed\u4e09\u665a\u7761\u7720\u53ea\u6709 5.0 / 5.0 / 4.5 h\uff0c\u53e0\u52a0 9/27 \u7684 4h24m \u6237\u5916\u957f\u9a91\uff08293 load\uff09\uff0c\u5468\u4e09\u8fd9\u8282\u662f\u7eaf\u586b\u5145\u8bfe\uff0c\u780d\u5b83\u4e0d\u4f24\u7ed3\u6784\u3002\n\u7761\u7720\u8865\u56de\u6765\uff08\u8fde\u7eed\u4e24\u665a \u22657h\uff09\u5c31\u8bf4\u4e00\u53e5\uff0c\u6211\u628a 90min \u52a0\u56de\u53bb\u3002\n\n\u529f\u7387\uff08\u53cc\u53e3\u5f84\uff09\uff1a\n  \u4e3b\u6bb5 \u53f0\u5b50/ERG 131-145 W\uff0865-72%\uff09 \u2192 \u8868\u4e0a\u529f\u7387\u8ba1\u8bfb\u5230 138-153 W\n  \u5fc3\u7387\u4e0a\u9650 148\uff1b\u4eca\u5929\u53ea\u6c42\u300c\u8f6c\u817f + \u5438\u6536\u300d\uff0c\u5b81\u4f4e\u52ff\u9ad8\uff0c\u4e0d\u8ffd\u8d1f\u8377\u3002\n\u8865\u7ed9\uff1a\u6bcf\u5c0f\u65f6 50-60 g \u78b3\u6c34 + 500-750 ml \u6c34\uff0c\u7b2c 40 \u5206\u949f\u5c31\u5f00\u5403\u3002\n\nWarmup\n- 10m ramp 55-68% 88rpm\n\nMain Set\n- 40m 65-72% 88rpm\n\nCooldown\n- 10m 55-60% 85rpm\n",
+      "planned_tss": 43,
       "duration_hours": 0.0
     },
     {
