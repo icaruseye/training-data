@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-10-08T23:58:41.343925",
+    "last_updated": "2026-10-09T05:56:23.084074",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -21,7 +21,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-10-04",
-    "age_days": 4,
+    "age_days": 5,
     "total_months": 28,
     "history_confidence": "high"
   },
@@ -47,11 +47,11 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 59.54,
-      "atl": 59.73,
-      "tsb": -0.19,
-      "ramp_rate": 3.33,
-      "fitness_source": "Decayed from yesterday (today's planned workouts not yet completed)"
+      "ctl": 58.13,
+      "atl": 51.78,
+      "tsb": 6.35,
+      "ramp_rate": 0.36,
+      "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
       "ftp_outdoor": 212,
@@ -66,7 +66,7 @@
     },
     "current_metrics": {
       "weight_kg": 67.0,
-      "resting_hr": 59,
+      "resting_hr": 54,
       "hrv": null,
       "sleep_quality": null,
       "sleep_hours": null
@@ -75,12 +75,12 @@
   "derived_metrics": {
     "recovery_index": null,
     "hrv_baseline_7d": null,
-    "rhr_baseline_7d": 58.2,
+    "rhr_baseline_7d": 57.3,
     "hrv_baseline_28d": null,
     "rhr_baseline_28d": 57.0,
     "latest_hrv": null,
     "latest_rhr": null,
-    "acwr": 1.02,
+    "acwr": 1.09,
     "acwr_interpretation": "optimal",
     "monotony": 0.67,
     "monotony_interpretation": "normal",
@@ -93,7 +93,7 @@
     "stress_tolerance": 4.4,
     "load_recovery_ratio": null,
     "tss_7d_total": 441.0,
-    "tss_28d_total": 1734.0,
+    "tss_28d_total": 1623.0,
     "zone_distribution_7d": {
       "z1_hours": 1.91,
       "z2_hours": 3.2,
@@ -131,23 +131,23 @@
       "sport": "cycling"
     },
     "seiler_tid_28d": {
-      "z1_seconds": 83136,
-      "z2_seconds": 12290,
-      "z3_seconds": 19636,
-      "z1_pct": 72.3,
-      "z2_pct": 10.7,
-      "z3_pct": 17.1,
-      "polarization_index": 2.06,
+      "z1_seconds": 80257,
+      "z2_seconds": 10848,
+      "z3_seconds": 17613,
+      "z1_pct": 73.8,
+      "z2_pct": 10.0,
+      "z3_pct": 16.2,
+      "polarization_index": 2.08,
       "classification": "Polarized"
     },
     "seiler_tid_28d_primary": {
-      "z1_seconds": 83136,
-      "z2_seconds": 12290,
-      "z3_seconds": 19636,
-      "z1_pct": 72.3,
-      "z2_pct": 10.7,
-      "z3_pct": 17.1,
-      "polarization_index": 2.06,
+      "z1_seconds": 80257,
+      "z2_seconds": 10848,
+      "z3_seconds": 17613,
+      "z1_pct": 73.8,
+      "z2_pct": 10.0,
+      "z3_pct": 16.2,
+      "polarization_index": 2.08,
       "classification": "Polarized",
       "sport": "cycling"
     },
@@ -166,8 +166,8 @@
         "classification_7d": "Polarized",
         "classification_28d": "Polarized",
         "pi_7d": 2.15,
-        "pi_28d": 2.06,
-        "pi_delta": 0.09,
+        "pi_28d": 2.08,
+        "pi_delta": 0.07,
         "drift": "consistent",
         "note": "Compares 7d vs 28d Seiler TID to detect distribution shifts. pi_delta positive = more polarized acutely."
       }
@@ -191,11 +191,10 @@
         "2026-10-06"
       ]
     },
-    "phase_detected": "Build",
+    "phase_detected": "Taper",
     "phase_triggers": [
-      "ACWR 1.02 in 0.8-1.3",
-      "Quality Intensity 21.6% in 15-25%",
-      "Hard days 2/week >= 2"
+      "TSB 6.35 positive",
+      "CTL stable/declining"
     ],
     "seasonal_context": "Late Season / Transition",
     "benchmark_indoor": {
@@ -218,16 +217,16 @@
     "p_max": 959,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-10-08T23:58:41.343115",
+    "calculation_timestamp": "2026-10-09T05:56:23.083268",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
       "activities_7d": 3,
-      "activities_28d": 17,
+      "activities_28d": 16,
       "planned_workouts_7d": 8,
       "ftp_history_days": {
-        "indoor": 233,
-        "outdoor": 233
+        "indoor": 234,
+        "outdoor": 234
       }
     }
   },
@@ -388,21 +387,6 @@
   ],
   "wellness_data": [
     {
-      "date": "2026-10-02",
-      "weight_kg": null,
-      "resting_hr": 59,
-      "hrv_rmssd": null,
-      "hrv_sdnn": null,
-      "sleep_hours": 8.43,
-      "sleep_quality": null,
-      "sleep_score": null,
-      "mental_energy": null,
-      "fatigue": null,
-      "soreness": null,
-      "avg_sleeping_hr": null,
-      "vo2max": null
-    },
-    {
       "date": "2026-10-03",
       "weight_kg": null,
       "resting_hr": 54,
@@ -480,6 +464,21 @@
     {
       "date": "2026-10-08",
       "weight_kg": null,
+      "resting_hr": 54,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": 7.62,
+      "sleep_quality": null,
+      "sleep_score": null,
+      "mental_energy": null,
+      "fatigue": null,
+      "soreness": null,
+      "avg_sleeping_hr": null,
+      "vo2max": null
+    },
+    {
+      "date": "2026-10-09",
+      "weight_kg": null,
       "resting_hr": null,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
@@ -496,33 +495,15 @@
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-10-08T00:00:00",
-      "name": "Planned Workout",
-      "type": "INJURED",
-      "description": null,
-      "planned_tss": null,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_2",
-      "date": "2026-10-08T20:30:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "\u6062\u590d\u8f6c\u817f 45min\uff08\u9ac2\u8170\u808c\u62c9\u4f24\u6025\u6027\u671f\uff09\u2014\u2014 \u539f\u5b9a VO\u2082max 5x4min \u5df2\u53d6\u6d88\uff0c\u672c\u5468\u4e0d\u8865\u3002\n\n\u4eca\u665a\u552f\u4e00\u7684\u4e0a\u9650\uff1a\u4e0d\u8bb8\u52a0\u91cd\u62c9\u4f24\u3002\n\u2460 \u4e0a\u8f66\u524d\u81ea\u6d4b\uff1a\u62ac\u817f / \u5f13\u6b65 / \u6df1\u8e72\u65f6\u9acb\u524d\u4fa7\u6709\u7275\u626f\u75db \u2192 \u4eca\u5929\u5168\u4f11\uff0c\u4e00\u70b9\u4e5f\u522b\u9a91\u3002\n\u2461 \u9a91\u8f66\u4e2d\u9acb\u524d\u4fa7\u4e00\u51fa\u73b0\u75bc\u75db \u2192 \u7acb\u523b\u4e0b\u8f66\uff0c\u6539\u5168\u4f11\u3002\u53ea\u6709\u5168\u7a0b\u65e0\u75db\u624d\u7ee7\u7eed\u3002\n\u2462 \u5168\u7a0b Z1\u3001\u8f7b\u9f7f\u6bd4\u3001\u8e0f\u9891 90-95\u3001\u96f6\u626d\u77e9\uff1b\u7981\u6b62\u7ad9\u7acb\u6447\u8f66\uff0c\u7981\u6b62 55 rpm \u4ee5\u4e0b\u7684\u5927\u626d\u77e9\u3002\n\u2463 \u65e0\u75db\u9a91\u6ee1 15-20 min \u5c31\u505a\u5b8c 45 min \u6536\u5de5\uff0c\u4e0d\u52a0\u65f6\u957f\u3001\u4e0d\u52a0\u529f\u7387\u3002\n\n\u4e3a\u4ec0\u4e48\u53d6\u6d88 VO\u2082\uff1a\u6700\u5927\u7528\u529b\u65f6\u9ac2\u8170\u808c\u662f\u4e3b\u529b\u53d1\u529b\u808c\uff0c\u6025\u6027\u62c9\u4f24\u671f\u4e0a\u5f3a\u5ea6\u4f1a\u628a 2 \u5929\u7684\u4f24\u62d6\u6210 2 \u5468\uff0c\n\u76f4\u63a5\u7838\u6389 11/01 \u7684\u590d\u6d4b \u2014\u2014 \u4eca\u5929\u4e22\u7684\u90a3\u70b9\u6709\u6c27\u65e0\u5173\u7d27\u8981\u3002\n\u5fc3\u7387\u4e0a\u9650 125\uff0c\u80fd\u8f7b\u677e\u4ea4\u8c08\u3002\u5b81\u8f7b\u52ff\u91cd\u3002\n\nWarmup\n- 5m ramp 40-48% 92rpm\n\nMain Set\n- 35m 45-52% 92rpm\n\nCooldown\n- 5m 40% 88rpm\n",
-      "planned_tss": 17,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_3",
       "date": "2026-10-10T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Z2 \u957f\u6709\u6c27 4h \u2014 \u672c\u5468\u4e3b\u83dc\u3002\u8fd9\u662f\u6709\u6c27\u529f\u7387\u548c\u6297\u75b2\u52b3\u7684\u5e95\u5c42\u3002\n\n\u5fc3\u7387\u9501 145\u3002\u4f60\u5ba4\u5185\u6700\u957f 197 min\uff087/25\uff09\uff0c\u4eca\u5929\u8981\u7834\u8fd9\u4e2a\u8bb0\u5f55 \u2014\u2014 \u4f46\u5f3a\u5ea6\u4e0d\u6da8\u3002\n\u7b2c 3 \u5c0f\u65f6\u5f00\u59cb\u817f\u6c89\u662f\u6b63\u5e38\u7684\uff0c\u90a3\u6b63\u662f\u8fd9\u8282\u8bfe\u7684\u8bad\u7ec3\u5185\u5bb9\u3002\n\u8865\u7ed9\uff1a\u6bcf\u5c0f\u65f6 60 g \u78b3\u6c34 + 500-750 ml \u6c34\uff0c\u7b2c 40 \u5206\u949f\u5f00\u5403\u3002\n\u6bcf 50 \u5206\u949f\u7ad9\u8d77\u6765\u677e\u817f 5 \u5206\u949f\u3002\n\u2705 \u5f3a\u70c8\u5efa\u8bae\u6237\u5916\uff08\u4f60\u6237\u5916\u6700\u957f 8h02m\uff0c4 \u5c0f\u65f6\u5bf9\u4f60\u4e0d\u662f\u65b0\u9c9c\u4e8b\uff09\u3002\u5ba4\u5185\u5219\u6700\u591a 3h\uff0c\u5269 1h \u632a\u5230\u522b\u5929\u3002\n\n\u529f\u7387\uff08\u53cc\u53e3\u5f84\uff09\uff1a\n  \u4e3b\u6bb5 \u53f0\u5b50/ERG 127-145 W\uff0863-72%\uff09 \u2192 \u8868\u4e0a\u529f\u7387\u8ba1\u8bfb\u5230 133-152 W\n  65-72%\uff08\u53f0\u5b50 131-145 W\uff09\u7528\u4e8e 90-120 min \u7684\u8bfe\uff1b63-68%\uff08\u53f0\u5b50 127-137 W\uff09\u7528\u4e8e 3 h \u4ee5\u4e0a\u7684\u8bfe\u3002\n  \u5fc3\u7387\u4e0a\u9650\uff1a90-120 min \u7684\u8bfe\u9501 148\uff1b3 h \u4ee5\u4e0a\u7684\u8bfe\u9501 145\u3002\n\u8865\u7ed9\uff1a\u6bcf\u5c0f\u65f6 50-60 g \u78b3\u6c34 + 500-750 ml \u6c34\uff0c\u7b2c 40 \u5206\u949f\u5c31\u5f00\u5403\u3002\n\nWarmup\n- 15m ramp 50-62% 85rpm\n\nMain Set\n- 50m 63-68% 85rpm\n- 5m 50% 75rpm\n- 50m 63-68% 85rpm\n- 5m 50% 75rpm\n- 50m 63-68% 85rpm\n- 5m 50% 75rpm\n- 50m 63-68% 85rpm\n\nCooldown\n- 10m 50% 75rpm\n",
+      "description": "Z2 \u957f\u6709\u6c27 4h \u2014 \u672c\u5468\u4e3b\u83dc\u3002\u8fd9\u662f\u6709\u6c27\u529f\u7387\u548c\u6297\u75b2\u52b3\u7684\u5e95\u5c42\u3002\n\n\ud83d\udd34 \u9ac2\u8170\u808c gate\uff0810/07 + 10/08 \u5df2\u8bb0\u62c9\u4f24\uff0c\u4f60\u8fde\u7740 3 \u5929\u6ca1\u4e0a\u8f66\uff09\uff1a\n\u2460 \u51fa\u95e8\u524d\u81ea\u6d4b\uff1a\u62ac\u817f / \u5f13\u6b65 / \u6df1\u8e72\u65f6\u9acb\u524d\u4fa7\u6709\u7275\u626f\u75db \u2192 \u4eca\u5929\u522b\u9a91\u957f\u9014\uff0c\u6539\u5ba4\u5185 Z2 90min \u6216\u5168\u4f11\u3002\n\u2461 \u9a91\u4e2d\u9acb\u524d\u4fa7\u4e00\u51fa\u73b0\u75bc\u75db \u2192 \u7acb\u523b\u6536\u8f66\uff0c\u4e0d\u8981\u4e3a\u4e86\u51d1 4h \u786c\u6491\u3002\n\u2462 \u5168\u7a0b\u5750\u59ff\u3001\u8f7b\u9f7f\u6bd4\u3001\u96f6\u626d\u77e9\uff1b\u7981\u6b62\u6447\u8f66\uff0c\u7ad9\u8d77\u6765\u677e\u817f\u65f6\u4e5f\u522b\u7528\u529b\u8e6c\u3002\n\u2463 \u65e0\u75db\u9a91\u6ee1 2h \u5c31\u7b97\u8fc7\u5173\u3002\u80fd\u9a91\u5230 3-4h \u66f4\u597d\uff1b\u6309\u5b9e\u9645\u65f6\u957f\u8bb0\u8d26\uff0c\u4eca\u5929\u4e0d\u8ffd load\u3002\n\u5fc3\u7387\u9501 145 \u2014\u2014 \u5e26\u4f24 + \u7f3a\u4e09\u5929\u8bad\u7ec3\uff0c\u5fc3\u7387\u4f1a\u6bd4\u5e73\u65f6\u865a\u9ad8\uff0c\u66f4\u8981\u5b88\u4f4f\u3002\n\u8865\u7ed9\uff1a\u6bcf\u5c0f\u65f6 60 g \u78b3\u6c34 + 500-750 ml \u6c34\uff0c\u7b2c 40 \u5206\u949f\u5f00\u5403\u3002\n\u2705 \u5f3a\u70c8\u5efa\u8bae\u6237\u5916\uff08\u4f60\u6237\u5916\u6700\u957f 8h02m\uff0c4 \u5c0f\u65f6\u5bf9\u4f60\u4e0d\u662f\u65b0\u9c9c\u4e8b\uff09\u3002\u82e5\u9acb\u90e8\u4e0d\u9002\uff0c\u5ba4\u5185\u6700\u591a 3h\u3002\n\n\u529f\u7387\uff08\u53cc\u53e3\u5f84\uff09\uff1a\n  \u4e3b\u6bb5 \u53f0\u5b50/ERG 127-145 W\uff0863-72%\uff09 \u2192 \u8868\u4e0a\u529f\u7387\u8ba1\u8bfb\u5230 133-152 W\n  65-72%\uff08\u53f0\u5b50 131-145 W\uff09\u7528\u4e8e 90-120 min \u7684\u8bfe\uff1b63-68%\uff08\u53f0\u5b50 127-137 W\uff09\u7528\u4e8e 3 h \u4ee5\u4e0a\u7684\u8bfe\u3002\n  \u5fc3\u7387\u4e0a\u9650\uff1a90-120 min \u7684\u8bfe\u9501 148\uff1b3 h \u4ee5\u4e0a\u7684\u8bfe\u9501 145\u3002\n\u8865\u7ed9\uff1a\u6bcf\u5c0f\u65f6 50-60 g \u78b3\u6c34 + 500-750 ml \u6c34\uff0c\u7b2c 40 \u5206\u949f\u5c31\u5f00\u5403\u3002\n\nWarmup\n- 15m ramp 50-62% 85rpm\n\nMain Set\n- 50m 63-68% 85rpm\n- 5m 50% 75rpm\n- 50m 63-68% 85rpm\n- 5m 50% 75rpm\n- 50m 63-68% 85rpm\n- 5m 50% 75rpm\n- 50m 63-68% 85rpm\n\nCooldown\n- 10m 50% 75rpm\n",
       "planned_tss": 162,
       "duration_hours": 0.0
     },
     {
-      "id": "event_4",
+      "id": "event_2",
       "date": "2026-10-11T10:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -531,7 +512,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_5",
+      "id": "event_3",
       "date": "2026-10-12T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -540,7 +521,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_6",
+      "id": "event_4",
       "date": "2026-10-13T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -549,7 +530,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_7",
+      "id": "event_5",
       "date": "2026-10-14T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -558,7 +539,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_8",
+      "id": "event_6",
       "date": "2026-10-15T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -567,7 +548,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_9",
+      "id": "event_7",
       "date": "2026-10-17T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -576,7 +557,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_10",
+      "id": "event_8",
       "date": "2026-10-18T10:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -585,7 +566,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_11",
+      "id": "event_9",
       "date": "2026-10-19T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -594,7 +575,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_12",
+      "id": "event_10",
       "date": "2026-10-20T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -603,7 +584,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_13",
+      "id": "event_11",
       "date": "2026-10-21T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -612,7 +593,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_14",
+      "id": "event_12",
       "date": "2026-10-22T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -621,7 +602,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_15",
+      "id": "event_13",
       "date": "2026-10-24T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -630,7 +611,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_16",
+      "id": "event_14",
       "date": "2026-10-25T10:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -639,7 +620,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_17",
+      "id": "event_15",
       "date": "2026-10-26T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -648,7 +629,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_18",
+      "id": "event_16",
       "date": "2026-10-27T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -657,7 +638,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_19",
+      "id": "event_17",
       "date": "2026-10-28T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -671,6 +652,6 @@
     "total_tss": 441,
     "activities_count": 3,
     "avg_hrv": null,
-    "avg_resting_hr": 58.2
+    "avg_resting_hr": 57.3
   }
 }
