@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-10-18T00:50:09.144276",
+    "last_updated": "2026-10-18T05:34:02.807122",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -76,7 +76,7 @@
     },
     "current_metrics": {
       "weight_kg": 67.0,
-      "resting_hr": 59,
+      "resting_hr": 56,
       "hrv": null,
       "sleep_quality": null,
       "sleep_hours": null
@@ -85,9 +85,9 @@
   "derived_metrics": {
     "recovery_index": null,
     "hrv_baseline_7d": null,
-    "rhr_baseline_7d": 58.2,
+    "rhr_baseline_7d": 57.8,
     "hrv_baseline_28d": null,
-    "rhr_baseline_28d": 57.3,
+    "rhr_baseline_28d": 57.2,
     "latest_hrv": null,
     "latest_rhr": null,
     "acwr": 1.19,
@@ -227,10 +227,10 @@
     "p_max": 958,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-10-18T00:50:09.143669",
+    "calculation_timestamp": "2026-10-18T05:34:02.805366",
     "data_quality": {
       "hrv_data_points": 0,
-      "rhr_data_points": 5,
+      "rhr_data_points": 6,
       "activities_7d": 5,
       "activities_28d": 16,
       "planned_workouts_7d": 5,
@@ -576,10 +576,10 @@
     {
       "date": "2026-10-17",
       "weight_kg": null,
-      "resting_hr": null,
+      "resting_hr": 56,
       "hrv_rmssd": null,
       "hrv_sdnn": null,
-      "sleep_hours": null,
+      "sleep_hours": 7.19,
       "sleep_quality": null,
       "sleep_score": null,
       "mental_energy": null,
@@ -619,7 +619,7 @@
       "date": "2026-10-19T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u51c6\u5907\u597d\u8fce\u63a5FTP\u6d4b\u8bd5\uff01 9m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 85rpm 5m 65-75% 85rpm\n- VO2max Blowout 100rpm 5m 106-120% 100rpm\n- Recovery 10m 55%\n- All-out 20min effort 90rpm 20m freeride\n- Endurance 85rpm 5m 65-75% 85rpm\n\nCooldown\n- \u6d4b\u8bd5\u5b8c\u6210\uff0c\u7a33\u7a33\u9a91\u5b8c\uff0c\u505a\u5f97\u5f88\u597d\uff01 6m ramp 65-45%\n\n[Weekly Plan - Base \u00b7 type:ftpTest]",
+      "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u51c6\u5907\u597d\u8fce\u63a5FTP\u6d4b\u8bd5\uff01 9m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 85rpm 5m 65-75% 85rpm\n- VO2max Blowout 100rpm 5m 106-120% 100rpm\n- Recovery 10m 55%\n- All-out 20min effort 90rpm 20m freeride\n- Endurance 85rpm 5m 65-75% 85rpm\n\nCooldown\n- \u6d4b\u8bd5\u5b8c\u6210\uff0c\u7a33\u7a33\u9a91\u5b8c\uff0c\u505a\u5f97\u5f88\u597d\uff01 6m ramp 65-45%\n\n[Weekly Plan - Race Week \u00b7 type:ftpTest]",
       "planned_tss": 47,
       "duration_hours": 0.0
     },
@@ -628,7 +628,7 @@
       "date": "2026-10-20T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u4eca\u5929\u7a33\u7a33\u9a91\uff0c\u8f7b\u5feb\u63d0\u9891 15m ramp 45-75% 85rpm\n\nMain Set\n7x\n- Endurance 88rpm 10m 65-75% 88rpm\n- Spin-Up 110rpm 1m 75% 110rpm\n\nRecovery\n- Endurance 88rpm 13m 65-75% 88rpm\n\nCooldown\n- \u7a33\u624e\u7a33\u6253\uff0c\u9a91\u5f97\u5f88\u597d\uff0c\u653e\u677e\u6536\u5c3e 10m ramp 65-45%\n\n\n[Weekly Plan - Base \u00b7 type:enduranceSpinUps]",
+      "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u4eca\u5929\u7a33\u7a33\u9a91\uff0c\u8f7b\u5feb\u63d0\u9891 15m ramp 45-75% 85rpm\n\nMain Set\n7x\n- Endurance 88rpm 10m 65-75% 88rpm\n- Spin-Up 110rpm 1m 75% 110rpm\n\nRecovery\n- Endurance 88rpm 13m 65-75% 88rpm\n\nCooldown\n- \u7a33\u624e\u7a33\u6253\uff0c\u9a91\u5f97\u5f88\u597d\uff0c\u653e\u677e\u6536\u5c3e 10m ramp 65-45%\n\n\n[Weekly Plan - Race Week \u00b7 type:enduranceSpinUps]",
       "planned_tss": 90,
       "duration_hours": 0.0
     },
@@ -637,7 +637,7 @@
       "date": "2026-10-21T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u51c6\u5907\u5f00\u542f\u6e10\u8fdb\u6709\u6c27\u9a91\u884c\uff01 9m ramp 45-75% 85rpm\n\nMain Set\n- Low 85rpm 15m 65% 85rpm\n- Mid 88rpm 15m 69% 88rpm\n- Upper 90rpm 15m 73% 90rpm\n\nCooldown\n- \u9a91\u5f97\u6f02\u4eae\uff0c\u8f7b\u677e\u8f6c\u4e00\u8f6c\uff0c\u6062\u590d\u4e00\u4e0b\uff01 6m ramp 65-45%\n\n[Weekly Plan - Base \u00b7 type:enduranceProgressive]",
+      "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u51c6\u5907\u5f00\u542f\u6e10\u8fdb\u6709\u6c27\u9a91\u884c\uff01 9m ramp 45-75% 85rpm\n\nMain Set\n- Low 85rpm 15m 65% 85rpm\n- Mid 88rpm 15m 69% 88rpm\n- Upper 90rpm 15m 73% 90rpm\n\nCooldown\n- \u9a91\u5f97\u6f02\u4eae\uff0c\u8f7b\u677e\u8f6c\u4e00\u8f6c\uff0c\u6062\u590d\u4e00\u4e0b\uff01 6m ramp 65-45%\n\n[Weekly Plan - Race Week \u00b7 type:enduranceProgressive]",
       "planned_tss": 45,
       "duration_hours": 0.0
     },
@@ -646,62 +646,17 @@
       "date": "2026-10-22T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
-      "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u4eca\u5929\u7a33\u7a33\u9a91\u8d77\u6765\uff01 15m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 85rpm 14m 65-70% 85rpm\n- Steady 88rpm 76m 70% 88rpm\n\nCooldown\n- \u9a91\u5f97\u6f02\u4eae\uff0c\u8f7b\u677e\u6536\u5c3e\uff01 10m ramp 65-45%\n\n[Weekly Plan - Base \u00b7 type:longAerobic]",
+      "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u4eca\u5929\u7a33\u7a33\u9a91\u8d77\u6765\uff01 15m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 85rpm 14m 65-70% 85rpm\n- Steady 88rpm 76m 70% 88rpm\n\nCooldown\n- \u9a91\u5f97\u6f02\u4eae\uff0c\u8f7b\u677e\u6536\u5c3e\uff01 10m ramp 65-45%\n\n[Weekly Plan - Race Week \u00b7 type:longAerobic]",
       "planned_tss": 89,
       "duration_hours": 0.0
     },
     {
       "id": "event_6",
-      "date": "2026-10-24T09:00:00",
+      "date": "2026-10-24T00:00:00",
       "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u55e8\uff0c\u4e0d\u8981\u54c7\u54c7\u53eb\uff01\u51c6\u5907\u5f00\u542f\u7a33\u5065\u8010\u529b\u9a91\u884c 15m ramp 45-75% 85rpm\n\nMain Set\n- Low 85rpm 72m 68% 85rpm\n- Settle In 85rpm 72m 68% 85rpm\n- Cruise 88rpm 71m 68% 88rpm\n\nCooldown\n- \u9a91\u5f97\u6f02\u4eae\uff0c\u8f7b\u677e\u8f6c\u8f6c\uff0c\u4eab\u53d7\u6210\u679c 10m ramp 65-45%\n\n[Weekly Plan - Base \u00b7 type:enduranceFatMax]",
-      "planned_tss": 182,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_7",
-      "date": "2026-11-02T19:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "\u9608\u503c 2x30min @90-95% \u2014 \u63d0\u5347 FTP \u4e0e 20 \u5206\u949f\u529f\u7387\u7684\u4e3b\u8bfe\u3002\u6301\u7eed\u9608\u503c TIZ \u662f\u672c\u5757\u6700\u5173\u952e\u7684\u9012\u8fdb\u53d8\u91cf\u3002\n\n\u529f\u7387\uff08\u53cc\u53e3\u5f84\uff09\uff1a\n  \u9608\u503c\u6bb5 2x30min @90-95%\uff1a\u53f0\u5b50 182-192 W\uff08\u951a 187\uff09\u2192 \u8868\u4e0a 190-201 W\n  \u7ec4\u95f4 4min @55%\uff1a\u53f0\u5b50 111 W \u2192 \u8868\u4e0a 116 W\n  \u8e0f\u9891 92\uff1b\u9608\u503c\u6bb5\u5fc3\u7387\u76ee\u6807 165-170\uff0c\u786c\u9876 172\uff08= \u4f60\u7684 LTHR\uff09\n\u4eca\u5929\u8981\u505a\u7684\u662f\u300c\u7d2f\u79ef\u65f6\u95f4\u300d\uff0c\u4e0d\u662f\u51b2\u5355\u6bb5\u5cf0\u503c\u3002\u7b2c\u4e00\u6bb5\u538b\u4f4f\uff0c\u6700\u540e\u4e00\u6bb5\u53ef\u4ee5\u5347 3-5%\uff1b\u9876\u4e0d\u4f4f\u5c31\u9000\u5230\u533a\u95f4\u4e0b\u9650\uff0c\u522b\u786c\u625b\u3002\n\u26a0\ufe0f \u8fd9\u8282\u6392\u5728\u5468\u65e5\u6709\u6c27\u4e4b\u540e\uff08\u7ea6 33 \u5c0f\u65f6\u95f4\u9694\uff09\u3001\u5468\u672b 4h30 \u4e4b\u540e \u2014\u2014 \u7b2c 1 \u6bb5\u5148\u6309\u533a\u95f4\u4e0b\u9650\u8d77\uff0c\u7b2c 2 \u6bb5\u518d\u9876\u5230\u4e0a\u9650\u3002\n\nWarmup\n- 12m ramp 45-75% 85rpm\n- 3m 90% 92rpm\n- 2m 55% 80rpm\n\nMain Set\n- 30m 90-95% 92rpm\n- 4m 55% 80rpm\n- 30m 90-95% 92rpm\n\nCooldown\n- 10m ramp 60-45% 85rpm\n",
-      "planned_tss": 111,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_8",
-      "date": "2026-11-04T18:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Z2 \u6709\u6c27 75min\uff08\u5468\u4e09\uff09 \u2014 \u77ed\u6709\u6c27\u3002\u4eca\u5929\u7684\u4efb\u52a1\u662f\u7ed9\u5468\u56db\u8d28\u91cf\u8bfe\u7559\u529b\uff0c\u4e0d\u662f\u6512\u91cf\u300218:00 \u5f00\u9a91\u3002\n\n\u529f\u7387\uff08\u53cc\u53e3\u5f84\uff09\uff1a\n  \u4e3b\u6bb5 \u53f0\u5b50/ERG 131-145 W\uff0865-72%\uff09 \u2192 \u8868\u4e0a\u529f\u7387\u8ba1\u8bfb\u5230 137-152 W\n  65-72%\uff08\u53f0\u5b50 131-145 W\uff09\u2192 \u8868\u4e0a 137-152 W\n  \u5fc3\u7387\u4e0a\u9650 148\uff08\u522b\u8fdb Z3\uff09\u3002\n\u8865\u7ed9\uff1a\u6bcf\u5c0f\u65f6 50-60 g \u78b3\u6c34 + 500-750 ml \u6c34\uff0c\u7b2c 40 \u5206\u949f\u5c31\u5f00\u5403\u3002\n\n\u9a91\u5b8c\u4e0d\u8be5\u6709\u660e\u663e\u817f\u6c89 \u2014\u2014 \u6709\uff0c\u5c31\u8bf4\u660e\u6628\u5929\u6ca1\u6062\u590d\uff0c\u660e\u5929\u76f4\u63a5\u964d\u4e00\u6863\u3002\n\u8865\u7ed9\uff1a\u6bcf\u5c0f\u65f6 50 g \u78b3\u6c34\u5373\u53ef\uff0c\u4e0d\u7528\u523b\u610f\u8865\u3002\n\nWarmup\n- 8m ramp 55-68% 88rpm\n\nMain Set\n- 57m 65-72% 88rpm\n\nCooldown\n- 10m 55-60% 85rpm\n",
-      "planned_tss": 55,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_9",
-      "date": "2026-11-05T18:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "\u4f4e\u8e0f\u9891 SST 4x8min \u00b7 58-65rpm \u2014 \u8f85\u52a9\u8bfe\uff08\u4e0d\u662f\u4e3b\u7ebf\uff09\uff1a\u8865\u9661\u5761\u4f4e\u8e0f\u9891\u626d\u77e9\u30028% \u4ee5\u4e0a\u4f60\u5728 58-65 rpm \u63a8\u4e0d\u52a8\u3002\n\n\u529f\u7387\uff08\u53cc\u53e3\u5f84\uff09\uff1a\n  \u5de5\u4f5c\u6bb5 4x8min @82-88%\uff1a\u53f0\u5b50 166-178 W\uff08\u951a 172\uff09\u2192 \u8868\u4e0a 173-186 W\n  \u8e0f\u9891\u9501 58-65 rpm \u2014\u2014 \u8fd9\u662f\u672c\u8bfe\u552f\u4e00\u7684\u91cd\u70b9\u3002\u5b81\u53ef\u529f\u7387\u4f4e 5 W\uff0c\u4e5f\u8981\u5b88\u4f4f\u4f4e\u8e0f\u9891\u3002\n  \u7ec4\u95f4 4min @50% \u8f7b\u677e\u8f6c\uff1a\u53f0\u5b50 101 W \u2192 \u8868\u4e0a 106 W\n\u5750\u59ff\u4e3a\u4e3b\uff0c\u91cd\u5fc3\u540e\u538b\u3001\u4e0a\u8eab\u653e\u677e\u3001\u522b\u6447\u8f66\u3002\u819d\u76d6\u524d\u4fa7\u6709\u4e0d\u9002\u7acb\u523b\u505c\uff0c\u4e0d\u8981\u786c\u625b\u3002\n\u4f4e\u8e0f\u9891\u4e0b\u5fc3\u7387\u4f1a\u504f\u4f4e\uff0c\u522b\u53bb\u770b\u5fc3\u7387 \u2014\u2014 \u770b\u8e0f\u9891\u548c\u529f\u7387\u3002\n\u26a0\ufe0f \u660e\u5929\uff08\u5468\u4e94\uff09\u5168\u4f11\uff1b**\u5468\u516d\u662f 4h30 \u957f\u8ddd\u79bb** \u2014\u2014 \u4eca\u5929\u4e0d\u505a\u529b\u7aed\uff0c\u672b\u7ec4\u529f\u7387\u6bd4\u9996\u7ec4\u6389\u8d85\u8fc7 5% \u5c31\u76f4\u63a5\u6536\u8f66\u3002\n\u26a0\ufe0f \u6628\u5929\u53ea\u6709 75min \u77ed\u6709\u6c27\uff0c\u4eca\u5929\u8be5\u662f\u6ee1\u72b6\u6001 \u2014\u2014 \u7b2c 1 \u7ec4\u5c31\u9876\u4e0d\u5230 82%\uff0c\u90a3\u5c31\u662f\u771f\u75b2\u52b3\uff0c\u780d\u4e00\u7ec4\u3002\n\u5c3e\u5df4\uff1a\u4e3b\u8bfe\u505a\u5b8c\u63a5\u7740\u9a91 90min \u6709\u6c27\uff0860-66%\uff0c\u6bd4\u5e73\u5e38 Z2 \u4f4e\u4e00\u6863\uff09\u3002\u817f\u4e0d\u884c\u5c31\u780d\u5230 45min \u2014\u2014 \u4eca\u5929\u8981\u7559\u529b\u6c14\u7ed9\u5468\u516d\u3002\n\nWarmup\n- 12m ramp 50-70% 85rpm\n- 5m 70% 80rpm\n\nMain Set\n- 8m 82-88% 60rpm\n- 4m 50% 85rpm\n- 8m 82-88% 60rpm\n- 4m 50% 85rpm\n- 8m 82-88% 60rpm\n- 4m 50% 85rpm\n- 8m 82-88% 60rpm\n- 90m 60-66% 85rpm\n\nCooldown\n- 10m ramp 60-45% 85rpm\n",
-      "planned_tss": 126,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_10",
-      "date": "2026-11-07T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Z2 \u957f\u6709\u6c27 4h30 \u2014 \u53ea\u5728\u6237\u5916\u505a\u3002\u672c\u5468\u4e3b\u83dc\uff0c\u7ec3\u300c\u6297\u75b2\u52b3\u300d\uff0c\u4e0d\u662f\u7ec3\u5f3a\u5ea6\u3002\n\n\u529f\u7387\uff08\u53cc\u53e3\u5f84\uff09\uff1a\n  \u4e3b\u6bb5 \u53f0\u5b50/ERG 127-137 W\uff0863-68%\uff09 \u2192 \u8868\u4e0a\u529f\u7387\u8ba1\u8bfb\u5230 133-143 W\n  63-68%\uff08\u53f0\u5b50 127-137 W\uff09\u2192 \u8868\u4e0a 133-143 W\n  \u5fc3\u7387\u9501 145\uff1b\u540e\u6bb5\u81ea\u7136\u4e0a\u98d8\u5c31\u964d\u529f\u7387\uff0c\u522b\u786c\u9876\u3002\n\n\u2705 \u53ea\u5728\u6237\u5916\u505a\u3002\u5929\u6c14\u4e0d\u884c\u5c31\u6539 Z2 3h\uff08\u5ba4\u5185\uff09+ \u6b21\u65e5 Z2 90min\u3002\n\u6bcf 50-60 \u5206\u949f\u7ad9\u8d77\u6765\u677e\u817f 5 \u5206\u949f\u3002\n\nWarmup\n- 15m ramp 50-62% 85rpm\n\nMain Set\n- 55m 63-68% 85rpm\n- 5m 50% 75rpm\n- 55m 63-68% 85rpm\n- 5m 50% 75rpm\n- 55m 63-68% 85rpm\n- 5m 50% 75rpm\n- 55m 63-68% 85rpm\n- 5m 50% 75rpm\n- 20m 63-68% 85rpm\n\nCooldown\n- 5m 50% 75rpm\n",
-      "planned_tss": 191,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_11",
-      "date": "2026-11-08T10:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Z2 \u6709\u6c27 90min\uff08\u5468\u65e5\uff09 \u2014 \u5468\u65e5\u7684\u7a33\u5b9a\u6709\u6c27\u3002\u6628\u5929\u521a\u9a91\u5b8c\u957f\u8ddd\u79bb\uff0c\u4eca\u5929\u53ea\u505a\u65f6\u95f4\uff0c\u4e0d\u505a\u5f3a\u5ea6\u3002\n\n\u529f\u7387\uff08\u53cc\u53e3\u5f84\uff09\uff1a\n  \u4e3b\u6bb5 \u53f0\u5b50/ERG 131-145 W\uff0865-72%\uff09 \u2192 \u8868\u4e0a\u529f\u7387\u8ba1\u8bfb\u5230 137-152 W\n  65-72%\uff08\u53f0\u5b50 131-145 W\uff09\u2192 \u8868\u4e0a 137-152 W\n  \u5fc3\u7387\u4e0a\u9650 148\uff08\u522b\u8fdb Z3\uff09\u3002\n\u8865\u7ed9\uff1a\u6bcf\u5c0f\u65f6 50-60 g \u78b3\u6c34 + 500-750 ml \u6c34\uff0c\u7b2c 40 \u5206\u949f\u5c31\u5f00\u5403\u3002\n\n\u817f\u6c89\u5c31\u6574\u4f53\u964d 10 W\uff0c\u522b\u4e3a\u51d1\u6ee1 90 \u5206\u949f\u786c\u6491\u3002\n\u660e\u5929\uff08\u5468\u4e00\uff09\u662f\u9608\u503c\u8bfe \u2014\u2014 \u4eca\u5929\u672b\u6bb5\u4e00\u5b9a\u8981\u7559\u6709\u4f59\u529b\u3002\n\nWarmup\n- 10m ramp 55-68% 88rpm\n\nMain Set\n- 35m 65-72% 88rpm\n- 5m 55% 82rpm\n- 30m 65-72% 88rpm\n\nCooldown\n- 10m 55-60% 85rpm\n",
-      "planned_tss": 65,
+      "type": "RACE_B",
+      "description": "260\u516c\u91cc\u957f\u9014\u9a91\u6e38",
+      "planned_tss": null,
       "duration_hours": 0.0
     }
   ],
@@ -710,6 +665,6 @@
     "total_tss": 629,
     "activities_count": 5,
     "avg_hrv": null,
-    "avg_resting_hr": 58.2
+    "avg_resting_hr": 57.8
   }
 }
