@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-10-19T07:30:16.863588",
+    "last_updated": "2026-10-19T14:59:07.490674",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -66,10 +66,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 70.69,
-      "atl": 102.03,
-      "tsb": -31.34,
-      "ramp_rate": 8.5,
+      "ctl": 69.59,
+      "atl": 95.77,
+      "tsb": -26.18,
+      "ramp_rate": 7.39,
       "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
@@ -237,13 +237,13 @@
     "p_max": 958,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 56.0,
-    "calculation_timestamp": "2026-10-19T07:30:16.862767",
+    "calculation_timestamp": "2026-10-19T14:59:07.488864",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
       "activities_7d": 6,
       "activities_28d": 17,
-      "planned_workouts_7d": 6,
+      "planned_workouts_7d": 5,
       "ftp_history_days": {
         "indoor": 244,
         "outdoor": 244
@@ -668,15 +668,6 @@
   "planned_workouts": [
     {
       "id": "event_1",
-      "date": "2026-10-19T09:00:00",
-      "name": "Planned Workout",
-      "type": "WORKOUT",
-      "description": "Warmup\n- \u4e0d\u8981\u54c7\u54c7\u53eb\uff0c\u51c6\u5907\u597d\u8fce\u63a5FTP\u6d4b\u8bd5\uff01 9m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 85rpm 5m 65-75% 85rpm\n- VO2max Blowout 100rpm 5m 106-120% 100rpm\n- Recovery 10m 55%\n- All-out 20min effort 90rpm 20m freeride\n- Endurance 85rpm 5m 65-75% 85rpm\n\nCooldown\n- \u6d4b\u8bd5\u5b8c\u6210\uff0c\u7a33\u7a33\u9a91\u5b8c\uff0c\u505a\u5f97\u5f88\u597d\uff01 6m ramp 65-45%\n\n[Weekly Plan - Race Week \u00b7 type:ftpTest]",
-      "planned_tss": 47,
-      "duration_hours": 0.0
-    },
-    {
-      "id": "event_2",
       "date": "2026-10-19T19:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -685,7 +676,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_3",
+      "id": "event_2",
       "date": "2026-10-20T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -694,7 +685,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_4",
+      "id": "event_3",
       "date": "2026-10-21T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -703,7 +694,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_5",
+      "id": "event_4",
       "date": "2026-10-22T20:30:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -712,7 +703,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_6",
+      "id": "event_5",
       "date": "2026-10-24T00:00:00",
       "name": "Planned Workout",
       "type": "RACE_B",
@@ -721,7 +712,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_7",
+      "id": "event_6",
       "date": "2026-10-25T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
@@ -730,7 +721,7 @@
       "duration_hours": 0.0
     },
     {
-      "id": "event_8",
+      "id": "event_7",
       "date": "2026-10-26T09:00:00",
       "name": "Planned Workout",
       "type": "WORKOUT",
