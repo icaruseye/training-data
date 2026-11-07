@@ -12,7 +12,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-07T18:20:05.885550",
+    "last_updated": "2026-11-07T22:12:47.149455",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.4.0"
@@ -218,7 +218,7 @@
     "p_max": 953,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 56.0,
-    "calculation_timestamp": "2026-11-07T18:20:05.884795",
+    "calculation_timestamp": "2026-11-07T22:12:47.148874",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -597,6 +597,15 @@
       "type": "WORKOUT",
       "description": "Warmup\n- 15m ramp 45-75% 85rpm\n\nMain Set\n- Settle In 85rpm 15m 65-70% 85rpm\n- Steady 88rpm 200m 70% 88rpm\n\nCooldown\n- 10m ramp 65-45%\n\n[Weekly Plan - Build \u00b7 type:longAerobic]",
       "planned_tss": 190,
+      "duration_hours": 0.0
+    },
+    {
+      "id": "event_7",
+      "date": "2026-11-15T09:00:00",
+      "name": "Planned Workout",
+      "type": "WORKOUT",
+      "description": "Warmup\n- 9m ramp 45-75% 85rpm\n\nMain Set\n- Endurance 1 88rpm 11m 65-75% 88rpm\n- Tempo 1 90rpm 5m 76-82% 90rpm\n- Endurance 2 88rpm 11m 65-75% 88rpm\n- Tempo 2 90rpm 5m 76-82% 90rpm\n- Endurance 3 88rpm 11m 65-75% 88rpm\n\nCooldown\n- 6m ramp 65-45%\n\n[Weekly Plan - Build \u00b7 type:enduranceWithTempo]",
+      "planned_tss": 47,
       "duration_hours": 0.0
     }
   ],
